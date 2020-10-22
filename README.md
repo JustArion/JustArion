@@ -17,6 +17,7 @@ Yo, im arion! I do C# as a side hobby! I mainly study Political Science & Philos
 <details>
       <summary>Contact Details</summary>
     <p>
+      <br>
       Discord: arion#1223
       <br>
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Github</a>
