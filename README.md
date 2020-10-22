@@ -6,7 +6,7 @@ Yo, im arion! I do C# as a side hobby! I mainly study Political Science & Philos
 <hr>
 
 <details>
-      <summary>Statistics.</summary>
+      <summary>Statistics</summary>
   <p align=center>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arion-Kun&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=303030&text_color=fff&bg_color=303030&hide_border=false" alt="Stats were supposed to load here but did not ¯\_(ツ)_/¯" />
