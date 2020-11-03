@@ -1,3 +1,4 @@
+![Status](https://img.shields.io/badge/Status-Studying-red)
 ![arion](https://cdn.discordapp.com/attachments/711777766755926107/750250818967699479/e206d3be58c0498ed39d8df1064f10274b1dc97a_-_Copy.png)
 <hr>
 
@@ -17,12 +18,12 @@ Yo, im arion! I do C# as a side hobby! I mainly study Political Science & Philos
 <details>
       <summary>Contact Details</summary>
     <p>
+
+[![Discord](https://img.shields.io/badge/Discord%20-arion%231223-brightgreen)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
       <br>
-      Discord: arion#1223
+[![Github](https://img.shields.io/badge/Github-Arion--Kun-blue)](https://www.youtube.com/watch?v=dQw4w9WgXcQ?WhyWouldYouClickHere,YouAreAlreadyOnGithubBoomer!)
       <br>
-      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Github</a>
-      <br>
-      <a href="https://steamcommunity.com/id/Arion_Kun/">Steam</a>
+[![Steam](https://img.shields.io/badge/Steam-arion-blue)](https://steamcommunity.com/id/Arion_Kun/)
       <br>
     </p>
 </details>
