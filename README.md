@@ -19,9 +19,9 @@ Yo, im arion! I do C# as a side hobby! I major in Political Science & Philosophy
       <summary>Contact Details</summary>
     <p>
 
-[![Discord](https://img.shields.io/badge/Discord%20-arion%231223-brightgreen)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Discord](https://img.shields.io/badge/Discord%20-arion%231223-brightgreen)](https://youtu.be/K7XHy8nppf4)
       <br>
-[![Github](https://img.shields.io/badge/Github-Arion--Kun-blue)](https://www.youtube.com/watch?v=dQw4w9WgXcQ?WhyWouldYouClickHere,YouAreAlreadyOnGithubBoomer!)
+[![Github](https://img.shields.io/badge/Github-Arion--Kun-blue)](https://youtu.be/K7XHy8nppf4?WhyWouldYouClickHere,YouAreAlreadyOnGithubBoomer!)
       <br>
 [![Steam](https://img.shields.io/badge/Steam-arion-blue)](https://steamcommunity.com/id/Arion_Kun/)
       <br>
