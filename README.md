@@ -16,11 +16,17 @@ Yo, im arion! I do C# as a side hobby! I major in Political Science & Philosophy
   </p>
 Total Downloads
 <br>
+<a href="https://github.com/Arion-Kun/PostProcessing">
 <img alt="" src="https://img.shields.io/github/downloads/arion-kun/PostProcessing/total?color=blue&label=PostProcessing&style=flat-square">
+</a>
 <br>
+<a href="https://github.com/Arion-Kun/MicSensitivity">
 <img alt="" src="https://img.shields.io/github/downloads/arion-kun/MicSensitivity/total?color=blue&label=MicSensitivity&style=flat-square">
+</a>
 <br>
+<a href="https://github.com/Arion-Kun/ToggleMicIcon">
 <img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleMicIcon/total?color=blue&label=ToggleMicIcon&style=flat-square">
+</a>
 </details>
 
 <details>
