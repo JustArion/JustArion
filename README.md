@@ -1,5 +1,7 @@
-
-![Status](https://img.shields.io/badge/Status-Not%20On%20Holiday.-blue)
+![Status](https://img.shields.io/badge/Status-Not%20On%20Holiday.-blue?style=flat-square)
+<a href="https://github.com/Arion-Kun/">
+<img alt="" src="https://komarev.com/ghpvc/?username=Arion-Kun&style=flat-square">
+</a>
 ![arion](https://cdn.discordapp.com/attachments/711777766755926107/750250818967699479/e206d3be58c0498ed39d8df1064f10274b1dc97a_-_Copy.png)
 <hr>
 
