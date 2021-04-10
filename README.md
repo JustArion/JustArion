@@ -17,7 +17,8 @@ Yo, im arion! I do C# as a side hobby! I major in Political Science & Philosophy
       <img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=Arion-Kun&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=303030&text_color=fff&bg_color=303030&hide_border=false" alt="Stats were supposed to load here but did not ¯\_(ツ)_/¯" />
     </a>
   </p>
-Total Downloads
+  
+Total Downloads (Inaccurate as of March 2021 as the VRCMG uses an <a href="https://api.vrcmg.com/v0/mods.json">API</a>)
 <br>
 <a href="https://github.com/Arion-Kun/PostProcessing">
 <img alt="" src="https://img.shields.io/github/downloads/arion-kun/PostProcessing/total?color=blue&label=PostProcessing&style=flat-square">
