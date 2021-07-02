@@ -31,13 +31,16 @@ Total Downloads (Inaccurate as of March 2021 as the VRCMG uses an <a href="https
 <a href="https://github.com/Arion-Kun/ToggleMicIcon">
 <img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleMicIcon/total?color=blue&label=ToggleMicIcon&style=flat-square">
 </a>
+<a href="https://github.com/Arion-Kun/ToggleUIStickers">
+<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleUIStickers/total?color=blue&label=ToggleUIStickers&style=flat-square">
+</a>
 </details>
 
 <details>
       <summary>Contact Details</summary>
     <p>
 
-[![Discord](https://img.shields.io/badge/Discord%20-arion%231223-brightgreen)](https://youtu.be/K7XHy8nppf4)
+[![Discord](https://img.shields.io/badge/Discord%20-arion%231223-brightgreen)](https://discord.com/UnhandledLoliException?arion#1223)
       <br>
 [![Github](https://img.shields.io/badge/Github-Arion--Kun-blue)](https://youtu.be/K7XHy8nppf4?WhyWouldYouClickHere,YouAreAlreadyOnGithubBoomer!)
       <br>
