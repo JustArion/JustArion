@@ -34,6 +34,9 @@ Total Downloads (Inaccurate as of March 2021 as the VRCMG uses an <a href="https
 <img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleUIStickers/total?color=blue&label=ToggleUIStickers&style=flat-square">
 </a>
 <br>
+<a href="https://github.com/Arion-Kun/WingStateSaver">
+<img alt="" src="https://img.shields.io/github/downloads/arion-kun/WingStateSaver/total?color=blue&label=WingStateSaver&style=flat-square">
+</a>
 <a href="https://github.com/Arion-Kun/ResizePls">
 <img alt="" src="https://img.shields.io/github/downloads/arion-kun/ResizePls/total?color=blue&label=ResizePls&style=flat-square">
 </a>
