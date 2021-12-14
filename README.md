@@ -1,4 +1,4 @@
-![Status](https://img.shields.io/badge/Status-Holiday!.-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Holiday!-blue?style=flat-square)
 <a href="https://github.com/Arion-Kun/">
 <img alt="" src="https://komarev.com/ghpvc/?username=Arion-Kun&style=flat-square">
 </a>
