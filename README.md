@@ -1,11 +1,11 @@
-![Status](https://img.shields.io/badge/Status-Holiday!-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Yes!-blue?style=flat-square)
 <a href="https://github.com/Arion-Kun/">
 <img alt="" src="https://komarev.com/ghpvc/?username=Arion-Kun&style=flat-square">
 </a>
 ![arion](https://cdn.discordapp.com/attachments/711777766755926107/750250818967699479/e206d3be58c0498ed39d8df1064f10274b1dc97a_-_Copy.png)
 <hr>
 
-Yo, im arion! I do C# as a side hobby! I major in Political Science & Philosophy, when i'm done with that, Computer Science maybe and after that maybe engineering!
+Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy and know a little Python though my intent is not to learn Python. Languages I plan to stay far away from are Java and JavaScript.
 
 <hr>
 
