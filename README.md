@@ -98,7 +98,7 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
 	<a href="https://github.com/Arion-Kun/ResizePls">
 		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ResizePls/total?color=green&label=ResizePls&style=flat-square">
 	</a>
-</p>
+</p><br>
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png"/>
 <p>
