@@ -105,5 +105,9 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
 	<a href="https://github.com/Arion-Kun/GoLaunch">
 		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/GoLaunch/total?color=blue&label=GoLaunch&style=flat-square">
 	</a>
-	<br><br><br><br><br>
+	<br>
+	<a href="https://github.com/Arion-Kun/GoZippy">
+		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/GoZippy/total?color=blue&label=GoZippy&style=flat-square">
+	</a>
+	<br><br><br><br>
 </p>
