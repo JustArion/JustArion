@@ -71,9 +71,9 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
 
 <p><h3>📲 Contact Details</h3>
 
-[![Discord](https://img.shields.io/badge/Discord%20-arion%231223-brightgreen?cacheSeconds=3600)](https://discordapp.com/users/155396491853168640)
-[![Github](https://img.shields.io/badge/Github-Arion--Kun-blue?cacheSeconds=3600)](https://youtu.be/K7XHy8nppf4?WhyWouldYouClickHere,YouAreAlreadyOnGithubBoomer!)
-[![Steam](https://img.shields.io/badge/Steam-arion-blue?cacheSeconds=3600)](https://steamcommunity.com/id/Arion_Kun/)
+[![Discord](https://img.shields.io/badge/Discord%20-arion%231223-brightgreen?cacheSeconds=3600&style=flat-square)](https://discordapp.com/users/155396491853168640)
+[![Github](https://img.shields.io/badge/Github-Arion--Kun-blue?cacheSeconds=3600&style=flat-square)](https://youtu.be/K7XHy8nppf4?WhyWouldYouClickHere,YouAreAlreadyOnGithubBoomer!)
+[![Steam](https://img.shields.io/badge/Steam-arion-blue?cacheSeconds=3600&style=flat-square)](https://steamcommunity.com/id/Arion_Kun/)
 </p>
 
 <br>
@@ -84,19 +84,19 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png"/>
 <p>
 	<a href="https://github.com/Arion-Kun/PostProcessing">
-		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/PostProcessing/total?color=green&label=PostProcessing&style=flat-square">
+		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/PostProcessing/total?color=brightgreen&label=PostProcessing&style=flat-square">
 	</a>
 	<a href="https://github.com/Arion-Kun/MicSensitivity">
-		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/MicSensitivity/total?color=green&label=MicSensitivity&style=flat-square">
+		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/MicSensitivity/total?color=brightgreen&label=MicSensitivity&style=flat-square">
 	</a><br>
 	<a href="https://github.com/Arion-Kun/ToggleMicIcon">
-		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleMicIcon/total?color=green&label=ToggleMicIcon&style=flat-square">
+		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleMicIcon/total?color=brightgreen&label=ToggleMicIcon&style=flat-square">
 	</a><br>
 	<a href="https://github.com/Arion-Kun/WingStateSaver">
-		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/WingStateSaver/total?color=green&label=WingStateSaver&style=flat-square">
+		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/WingStateSaver/total?color=brightgreen&label=WingStateSaver&style=flat-square">
 	</a><br>
 	<a href="https://github.com/Arion-Kun/ResizePls">
-		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ResizePls/total?color=green&label=ResizePls&style=flat-square">
+		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ResizePls/total?color=brightgreen&label=ResizePls&style=flat-square">
 	</a>
 </p><br>
 
