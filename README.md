@@ -71,7 +71,7 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
 
 <p><h3>📲 Contact Details</h3>
 
-[![Discord](https://img.shields.io/badge/Discord%20-arion%231223-brightgreen?cacheSeconds=3600&style=flat-square)](https://discordapp.com/users/155396491853168640)
+[![Discord](https://img.shields.io/badge/arion%20-%231223-brightgreen?cacheSeconds=3600&style=flat-square)](https://discordapp.com/users/155396491853168640)
 [![Github](https://img.shields.io/badge/Github-Arion--Kun-blue?cacheSeconds=3600&style=flat-square)](https://youtu.be/K7XHy8nppf4?WhyWouldYouClickHere,YouAreAlreadyOnGithubBoomer!)
 [![Steam](https://img.shields.io/badge/Steam-arion-blue?cacheSeconds=3600&style=flat-square)](https://steamcommunity.com/id/Arion_Kun/)
 </p>
