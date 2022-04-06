@@ -92,18 +92,20 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
 	<a href="https://github.com/Arion-Kun/ToggleMicIcon">
 		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleMicIcon/total?color=brightgreen&label=ToggleMicIcon&style=flat-square">
 	</a>
-	<a href="https://github.com/Arion-Kun/RainmeterWrapper">
-		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/RainmeterWrapper/total?color=brightgreen&label=RainmeterWrapper&style=flat-square">
+	<a href="https://github.com/Arion-Kun/ResizePls">
+		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ResizePls/total?color=brightgreen&label=ResizePls&style=flat-square">
 	</a><br>
 	<a href="https://github.com/Arion-Kun/WingStateSaver">
 		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/WingStateSaver/total?color=brightgreen&label=WingStateSaver&style=flat-square">
+	</a>
+	<a href="https://github.com/Arion-Kun/RainmeterWrapper">
+		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/RainmeterWrapper/total?color=brightgreen&label=RainmeterWrapper&style=flat-square">
+	</a><br>
+	<a href="https://github.com/Arion-Kun/ConsoleEncodingFix">
+		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ConsoleEncodingFix/total?color=brightgreen&label=ConsoleEncodingFix&style=flat-square">
 	</a><br>
 	<a href="https://github.com/Arion-Kun/ToggleUIStickers">
 		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleUIStickers/total?color=brightgreen&label=ToggleUIStickers&style=flat-square">
-	</a>
-	<br>
-	<a href="https://github.com/Arion-Kun/ResizePls">
-		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ResizePls/total?color=brightgreen&label=ResizePls&style=flat-square">
 	</a>
 </p><br>
 
