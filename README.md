@@ -85,18 +85,17 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
 <p>
 	<a href="https://github.com/Arion-Kun/PostProcessing">
 		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/PostProcessing/total?color=brightgreen&label=PostProcessing&style=flat-square">
-	</a>
+	</a>	<a href="https://github.com/Arion-Kun/WingStateSaver">
+		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/WingStateSaver/total?color=brightgreen&label=WingStateSaver&style=flat-square">
+	</a><br>
 	<a href="https://github.com/Arion-Kun/MicSensitivity">
 		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/MicSensitivity/total?color=brightgreen&label=MicSensitivity&style=flat-square">
-	</a><br>
-	<a href="https://github.com/Arion-Kun/ToggleMicIcon">
-		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleMicIcon/total?color=brightgreen&label=ToggleMicIcon&style=flat-square">
 	</a>
 	<a href="https://github.com/Arion-Kun/ResizePls">
 		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ResizePls/total?color=brightgreen&label=ResizePls&style=flat-square">
 	</a><br>
-	<a href="https://github.com/Arion-Kun/WingStateSaver">
-		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/WingStateSaver/total?color=brightgreen&label=WingStateSaver&style=flat-square">
+	<a href="https://github.com/Arion-Kun/ToggleMicIcon">
+		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleMicIcon/total?color=brightgreen&label=ToggleMicIcon&style=flat-square">
 	</a>
 	<a href="https://github.com/Arion-Kun/RainmeterWrapper">
 		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/RainmeterWrapper/total?color=brightgreen&label=RainmeterWrapper&style=flat-square">
@@ -107,6 +106,7 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
 	<a href="https://github.com/Arion-Kun/ToggleUIStickers">
 		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleUIStickers/total?color=brightgreen&label=ToggleUIStickers&style=flat-square">
 	</a>
+<br>
 </p><br>
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png"/>
