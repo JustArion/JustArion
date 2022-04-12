@@ -115,13 +115,14 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png"/>
 <p>
-<kbd><a href="https://github.com/Arion-Kun/GoLaunch">
-	<img alt="" src="https://img.shields.io/github/downloads/arion-kun/GoLaunch/total?colorA=1e1e28&colorB=38ADD8&label=Go Launch&style=for-the-badge"> 
-	<img alt="" src="https://img.shields.io/github/stars/arion-kun/GoLaunch?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-</a></kbd><br>
+	
 <kbd><a href="https://github.com/Arion-Kun/GoZippy">
 	<img alt="" src="https://img.shields.io/github/downloads/arion-kun/GoZippy/total?colorA=1e1e28&colorB=38ADD8&label=Go Zippy&style=for-the-badge"> 
 	<img alt="" src="https://img.shields.io/github/stars/arion-kun/GoZippy?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+</a></kbd><br>
+<kbd><a href="https://github.com/Arion-Kun/GoLaunch">
+	<img alt="" src="https://img.shields.io/github/downloads/arion-kun/GoLaunch/total?colorA=1e1e28&colorB=38ADD8&label=Go Launch&style=for-the-badge"> 
+	<img alt="" src="https://img.shields.io/github/stars/arion-kun/GoLaunch?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
 </a></kbd>
-<br><br><br><br>
+	
 </p>
