@@ -1,6 +1,6 @@
-![Status](https://img.shields.io/badge/Status-Yes!-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Yes!-blue?style=for-the-badge)
 <a href="https://github.com/Arion-Kun/">
-	<img src="https://komarev.com/ghpvc/?username=Arion-Kun&style=flat-square">
+	<img src="https://komarev.com/ghpvc/?username=Arion-Kun&style=for-the-badge">
 </a>
 
 <img align="left" src="https://readme-typing-svg.herokuapp.com?lines=Keep%20Coding!;CSharp%20|%20GoLang%20|%20Python;Always%20learning%20new%20things;Hope%20my%20work%20helps%20you%20achieve%20what%20you%20want!&width=500&height=50">
@@ -69,54 +69,59 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
   </kbd>
 <br>
 
-<p><h3>📲 Contact Details</h3>
+<h3>📲 Contact Details</h3>
 
-[![Discord](https://img.shields.io/badge/arion%20-%231223-brightgreen?cacheSeconds=3600&style=flat-square)](https://discordapp.com/users/155396491853168640)
-[![Github](https://img.shields.io/badge/Github-Arion--Kun-blue?cacheSeconds=3600&style=flat-square)](https://youtu.be/K7XHy8nppf4?WhyWouldYouClickHere,YouAreAlreadyOnGithubBoomer!)
-[![Steam](https://img.shields.io/badge/Steam-arion-blue?cacheSeconds=3600&style=flat-square)](https://steamcommunity.com/id/Arion_Kun/)
-</p>
+<a href="https://discordapp.com/users/155396491853168640"><img src="https://img.shields.io/static/v1?label=arion&message=%231223&colorA=1e1e28&colorB=c9cbff&style=for-the-badge"></a>
+<a href="https://youtu.be/K7XHy8nppf4?WhyWouldYouClickHere,YouAreAlreadyOnGithubBoomer!"><img src="https://img.shields.io/static/v1?label=Github&message=Arion-Kun&colorA=1e1e28&colorB=C0E4EC&style=for-the-badge"></a>
+<a href="https://steamcommunity.com/id/Arion_Kun/"><img src="https://img.shields.io/static/v1?label=Steam&message=Arion&colorA=1e1e28&colorB=C0E4EC&style=for-the-badge"></a>
 
-<br>
  VRChat Mod Downloads are Inaccurate as of March 2021 as the VRCMG uses an <a href="https://api.vrcmg.com/v0/mods.json">API</a>
 
 <h3>🗒️ Notable Downloads</h3>
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png"/>
 <p>
-	<a href="https://github.com/Arion-Kun/PostProcessing">
-		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/PostProcessing/total?color=brightgreen&label=PostProcessing&style=flat-square">
-	</a>	<a href="https://github.com/Arion-Kun/WingStateSaver">
-		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/WingStateSaver/total?color=brightgreen&label=WingStateSaver&style=flat-square">
-	</a><br>
-	<a href="https://github.com/Arion-Kun/MicSensitivity">
-		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/MicSensitivity/total?color=brightgreen&label=MicSensitivity&style=flat-square">
-	</a>
-	<a href="https://github.com/Arion-Kun/ResizePls">
-		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ResizePls/total?color=brightgreen&label=ResizePls&style=flat-square">
-	</a><br>
-	<a href="https://github.com/Arion-Kun/ToggleMicIcon">
-		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleMicIcon/total?color=brightgreen&label=ToggleMicIcon&style=flat-square">
-	</a>
-	<a href="https://github.com/Arion-Kun/RainmeterWrapper">
-		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/RainmeterWrapper/total?color=brightgreen&label=RainmeterWrapper&style=flat-square">
-	</a><br>
-	<a href="https://github.com/Arion-Kun/ConsoleEncodingFix">
-		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ConsoleEncodingFix/total?color=brightgreen&label=ConsoleEncodingFix&style=flat-square">
-	</a><br>
-	<a href="https://github.com/Arion-Kun/ToggleUIStickers">
-		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleUIStickers/total?color=brightgreen&label=ToggleUIStickers&style=flat-square">
-	</a>
-<br>
+	
+<kbd><a href="https://github.com/Arion-Kun/PostProcessing">
+<img alt="" src="https://img.shields.io/github/downloads/arion-kun/PostProcessing/total?colorA=1e1e28&colorB=129415&label=Post Processing%2b&style=for-the-badge"> <img alt="" src="https://img.shields.io/github/stars/arion-kun/PostProcessing?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+</a></kbd>
+<kbd><a href="https://github.com/Arion-Kun/ToggleUIStickers">
+	<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleUIStickers/total?colorA=1e1e28&colorB=129415&label=Toggle UI Stickers&style=for-the-badge"> <img alt="" src="https://img.shields.io/github/stars/arion-kun/ToggleUIStickers?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+</a></kbd>
+<br><kbd><a href="https://github.com/Arion-Kun/MicSensitivity">
+	<img alt="" src="https://img.shields.io/github/downloads/arion-kun/MicSensitivity/total?colorA=1e1e28&colorB=129415&label=Mic Sensitivity&style=for-the-badge">
+	<img alt="" src="https://img.shields.io/github/stars/arion-kun/MicSensitivity?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+</a></kbd>
+<kbd><a href="https://github.com/Arion-Kun/WingStateSaver">
+	<img alt="" src="https://img.shields.io/github/downloads/arion-kun/WingStateSaver/total?colorA=1e1e28&colorB=129415&label=Wing State Saver&style=for-the-badge"> <img alt="" src="https://img.shields.io/github/stars/arion-kun/WingStateSaver?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+</a></kbd><br>
+<kbd><a href="https://github.com/Arion-Kun/ToggleMicIcon">
+	<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleMicIcon/total?colorA=1e1e28&colorB=129415&label=Toggle Mic Icon&style=for-the-badge">
+	<img alt="" src="https://img.shields.io/github/stars/arion-kun/ToggleMicIcon?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+</a></kbd>
+<kbd><a href="https://github.com/Arion-Kun/ResizePls">
+	<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ResizePls/total?colorA=1e1e28&colorB=129415&label=Resize Pls&style=for-the-badge">
+	<img alt="" src="https://img.shields.io/github/stars/arion-kun/ResizePls?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+	</a></kbd><br>
+<kbd><a href="https://github.com/Arion-Kun/ConsoleEncodingFix">
+	<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ConsoleEncodingFix/total?colorA=1e1e28&colorB=129415&label=Console Encoding Fix&style=for-the-badge"> 
+	<img alt="" src="https://img.shields.io/github/stars/arion-kun/ConsoleEncodingFix?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+</a></kbd>
+<kbd><a href="https://github.com/Arion-Kun/RainmeterWrapper">
+	<img alt="" src="https://img.shields.io/github/downloads/arion-kun/RainmeterWrapper/total?colorA=1e1e28&colorB=129415&label=Rainmeter Wrapper&style=for-the-badge"> <img alt="" src="https://img.shields.io/github/stars/arion-kun/RainmeterWrapper?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+</a></kbd>
+	
 </p><br>
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png"/>
 <p>
-	<a href="https://github.com/Arion-Kun/GoLaunch">
-		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/GoLaunch/total?color=blue&label=GoLaunch&style=flat-square">
-	</a>
-	<br>
-	<a href="https://github.com/Arion-Kun/GoZippy">
-		<img alt="" src="https://img.shields.io/github/downloads/arion-kun/GoZippy/total?color=blue&label=GoZippy&style=flat-square">
-	</a>
-	<br><br><br><br>
+<kbd><a href="https://github.com/Arion-Kun/GoLaunch">
+	<img alt="" src="https://img.shields.io/github/downloads/arion-kun/GoLaunch/total?colorA=1e1e28&colorB=38ADD8&label=Go Launch&style=for-the-badge"> 
+	<img alt="" src="https://img.shields.io/github/stars/arion-kun/GoLaunch?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+</a></kbd><br>
+<kbd><a href="https://github.com/Arion-Kun/GoZippy">
+	<img alt="" src="https://img.shields.io/github/downloads/arion-kun/GoZippy/total?colorA=1e1e28&colorB=38ADD8&label=Go Zippy&style=for-the-badge"> 
+	<img alt="" src="https://img.shields.io/github/stars/arion-kun/GoZippy?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+</a></kbd>
+<br><br><br><br>
 </p>
