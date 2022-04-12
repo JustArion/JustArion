@@ -68,16 +68,17 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
 	<a href="https://en.wikipedia.org/wiki/Git"><img width="30px" src="https://cdn.discordapp.com/attachments/857319153031315456/945031661744189440/git-icon-logo-png-transparent.png"></a>
   </kbd>
 <br>
-
+	
 <h3>📲 Contact Details</h3>
 
 <a href="https://discordapp.com/users/155396491853168640"><img src="https://img.shields.io/static/v1?label=arion&message=%231223&colorA=1e1e28&colorB=c9cbff&style=for-the-badge"></a>
 <a href="https://youtu.be/K7XHy8nppf4?WhyWouldYouClickHere,YouAreAlreadyOnGithubBoomer!"><img src="https://img.shields.io/static/v1?label=Github&message=Arion-Kun&colorA=1e1e28&colorB=C0E4EC&style=for-the-badge"></a>
 <a href="https://steamcommunity.com/id/Arion_Kun/"><img src="https://img.shields.io/static/v1?label=Steam&message=Arion&colorA=1e1e28&colorB=C0E4EC&style=for-the-badge"></a>
-
- VRChat Mod Downloads are Inaccurate as of March 2021 as the VRCMG uses an <a href="https://api.vrcmg.com/v0/mods.json">API</a>
+<p align="left"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 
 <h3>🗒️ Notable Downloads</h3>
+
+VRChat Mod Downloads are Inaccurate as of March 2021 as the VRCMG uses an <a href="https://api.vrcmg.com/v0/mods.json">API</a><br>
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png"/>
 <p>
