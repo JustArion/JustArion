@@ -118,11 +118,11 @@ VRChat Mod Downloads are Inaccurate as of March 2021 as the VRCMG uses an <a hre
 <p>
 	
 <kbd><a href="https://github.com/Arion-Kun/GoZippy">
-	<img alt="" width="150" height="30" src="https://img.shields.io/github/downloads/arion-kun/GoZippy/total?colorA=1e1e28&colorB=38ADD8&label=Go Zippy&style=for-the-badge"> 
+	<img alt="" width="125" height="30" src="https://img.shields.io/github/downloads/arion-kun/GoZippy/total?colorA=1e1e28&colorB=38ADD8&label=Go Zippy&style=for-the-badge"> 
 	<img alt="" width="75" height="30" src="https://img.shields.io/github/stars/arion-kun/GoZippy?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
 </a></kbd><br>
 <kbd><a href="https://github.com/Arion-Kun/GoLaunch">
-	<img alt="" width="150" height="30" src="https://img.shields.io/github/downloads/arion-kun/GoLaunch/total?colorA=1e1e28&colorB=38ADD8&label=Go Launch&style=for-the-badge"> 
+	<img alt="" width="125" height="30" src="https://img.shields.io/github/downloads/arion-kun/GoLaunch/total?colorA=1e1e28&colorB=38ADD8&label=Go Launch&style=for-the-badge"> 
 	<img alt="" width="75" height="30" src="https://img.shields.io/github/stars/arion-kun/GoLaunch?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
 </a></kbd>
 	
