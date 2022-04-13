@@ -84,32 +84,32 @@ VRChat Mod Downloads are Inaccurate as of March 2021 as the VRCMG uses an <a hre
 <p>
 	
 <kbd><a href="https://github.com/Arion-Kun/PostProcessing">
-<img alt="" src="https://img.shields.io/github/downloads/arion-kun/PostProcessing/total?colorA=1e1e28&colorB=129415&label=Post Processing%2b&style=for-the-badge"> <img alt="" src="https://img.shields.io/github/stars/arion-kun/PostProcessing?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+<img alt="" width="150" height="30" src="https://img.shields.io/github/downloads/arion-kun/PostProcessing/total?colorA=1e1e28&colorB=129415&label=Post Processing%2b&style=for-the-badge"> <img alt="" width="75" height="30" src="https://img.shields.io/github/stars/arion-kun/PostProcessing?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
 </a></kbd>
 <kbd><a href="https://github.com/Arion-Kun/ToggleUIStickers">
-	<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleUIStickers/total?colorA=1e1e28&colorB=129415&label=Toggle UI Stickers&style=for-the-badge"> <img alt="" src="https://img.shields.io/github/stars/arion-kun/ToggleUIStickers?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+	<img alt="" width="150" height="30" src="https://img.shields.io/github/downloads/arion-kun/ToggleUIStickers/total?colorA=1e1e28&colorB=129415&label=Toggle UI Stickers&style=for-the-badge"> <img alt="" width="75" height="30" src="https://img.shields.io/github/stars/arion-kun/ToggleUIStickers?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
 </a></kbd>
 <br><kbd><a href="https://github.com/Arion-Kun/MicSensitivity">
-	<img alt="" src="https://img.shields.io/github/downloads/arion-kun/MicSensitivity/total?colorA=1e1e28&colorB=129415&label=Mic Sensitivity&style=for-the-badge">
-	<img alt="" src="https://img.shields.io/github/stars/arion-kun/MicSensitivity?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+	<img alt="" width="150" height="30" src="https://img.shields.io/github/downloads/arion-kun/MicSensitivity/total?colorA=1e1e28&colorB=129415&label=Mic Sensitivity&style=for-the-badge">
+	<img alt="" width="75" height="30" src="https://img.shields.io/github/stars/arion-kun/MicSensitivity?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
 </a></kbd>
 <kbd><a href="https://github.com/Arion-Kun/WingStateSaver">
-	<img alt="" src="https://img.shields.io/github/downloads/arion-kun/WingStateSaver/total?colorA=1e1e28&colorB=129415&label=Wing State Saver&style=for-the-badge"> <img alt="" src="https://img.shields.io/github/stars/arion-kun/WingStateSaver?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+	<img alt="" width="150" height="30" src="https://img.shields.io/github/downloads/arion-kun/WingStateSaver/total?colorA=1e1e28&colorB=129415&label=Wing State Saver&style=for-the-badge"> <img alt="" width="75" height="30" src="https://img.shields.io/github/stars/arion-kun/WingStateSaver?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
 </a></kbd><br>
 <kbd><a href="https://github.com/Arion-Kun/ToggleMicIcon">
-	<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleMicIcon/total?colorA=1e1e28&colorB=129415&label=Toggle Mic Icon&style=for-the-badge">
-	<img alt="" src="https://img.shields.io/github/stars/arion-kun/ToggleMicIcon?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+	<img alt="" width="150" height="30" src="https://img.shields.io/github/downloads/arion-kun/ToggleMicIcon/total?colorA=1e1e28&colorB=129415&label=Toggle Mic Icon&style=for-the-badge">
+	<img alt="" width="75" height="30" src="https://img.shields.io/github/stars/arion-kun/ToggleMicIcon?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
 </a></kbd>
 <kbd><a href="https://github.com/Arion-Kun/ResizePls">
-	<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ResizePls/total?colorA=1e1e28&colorB=129415&label=Resize Pls&style=for-the-badge">
-	<img alt="" src="https://img.shields.io/github/stars/arion-kun/ResizePls?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+	<img alt="" width="150" height="30" src="https://img.shields.io/github/downloads/arion-kun/ResizePls/total?colorA=1e1e28&colorB=129415&label=Resize Pls&style=for-the-badge">
+	<img alt="" width="75" height="30" src="https://img.shields.io/github/stars/arion-kun/ResizePls?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
 	</a></kbd><br>
 <kbd><a href="https://github.com/Arion-Kun/ConsoleEncodingFix">
-	<img alt="" src="https://img.shields.io/github/downloads/arion-kun/ConsoleEncodingFix/total?colorA=1e1e28&colorB=129415&label=Console Encoding Fix&style=for-the-badge"> 
-	<img alt="" src="https://img.shields.io/github/stars/arion-kun/ConsoleEncodingFix?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+	<img alt="" width="150" height="30" src="https://img.shields.io/github/downloads/arion-kun/ConsoleEncodingFix/total?colorA=1e1e28&colorB=129415&label=Console Encoding Fix&style=for-the-badge"> 
+	<img alt="" width="75" height="30" src="https://img.shields.io/github/stars/arion-kun/ConsoleEncodingFix?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
 </a></kbd>
 <kbd><a href="https://github.com/Arion-Kun/RainmeterWrapper">
-	<img alt="" src="https://img.shields.io/github/downloads/arion-kun/RainmeterWrapper/total?colorA=1e1e28&colorB=129415&label=Rainmeter Wrapper&style=for-the-badge"> <img alt="" src="https://img.shields.io/github/stars/arion-kun/RainmeterWrapper?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+	<img alt="" width="150" height="30" src="https://img.shields.io/github/downloads/arion-kun/RainmeterWrapper/total?colorA=1e1e28&colorB=129415&label=Rainmeter Wrapper&style=for-the-badge"> <img alt="" width="75" height="30" src="https://img.shields.io/github/stars/arion-kun/RainmeterWrapper?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
 </a></kbd>
 	
 </p><br>
@@ -118,12 +118,12 @@ VRChat Mod Downloads are Inaccurate as of March 2021 as the VRCMG uses an <a hre
 <p>
 	
 <kbd><a href="https://github.com/Arion-Kun/GoZippy">
-	<img alt="" src="https://img.shields.io/github/downloads/arion-kun/GoZippy/total?colorA=1e1e28&colorB=38ADD8&label=Go Zippy&style=for-the-badge"> 
-	<img alt="" src="https://img.shields.io/github/stars/arion-kun/GoZippy?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+	<img alt="" width="150" height="30" src="https://img.shields.io/github/downloads/arion-kun/GoZippy/total?colorA=1e1e28&colorB=38ADD8&label=Go Zippy&style=for-the-badge"> 
+	<img alt="" width="75" height="30" src="https://img.shields.io/github/stars/arion-kun/GoZippy?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
 </a></kbd><br>
 <kbd><a href="https://github.com/Arion-Kun/GoLaunch">
-	<img alt="" src="https://img.shields.io/github/downloads/arion-kun/GoLaunch/total?colorA=1e1e28&colorB=38ADD8&label=Go Launch&style=for-the-badge"> 
-	<img alt="" src="https://img.shields.io/github/stars/arion-kun/GoLaunch?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+	<img alt="" width="150" height="30" src="https://img.shields.io/github/downloads/arion-kun/GoLaunch/total?colorA=1e1e28&colorB=38ADD8&label=Go Launch&style=for-the-badge"> 
+	<img alt="" width="75" height="30" src="https://img.shields.io/github/stars/arion-kun/GoLaunch?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
 </a></kbd>
 	
 </p>
