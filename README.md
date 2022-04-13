@@ -78,7 +78,7 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
 
 <h3>🗒️ Notable Downloads</h3>
 
-VRChat Mod Downloads are Inaccurate as of March 2021 as the VRCMG uses an <a href="https://api.vrcmg.com/v0/mods.json">API</a><br>
+VRChat Mod Downloads are Inaccurate as of March 2021 as the VRCMG uses an <a href="https://api.vrcmg.com/v0/mods.json">API</a> which now caches downloads on a per-update basis<br>
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png"/>
 <p>
