@@ -98,7 +98,7 @@ VRChat Mod Downloads are Inaccurate as of March 2021 as the VRCMG uses an <a hre
 </a></kbd>
 <kbd><a href="https://github.com/Arion-Kun/WingStateSaver">
 	<img alt="" width="150" height="30" src="https://img.shields.io/github/downloads/arion-kun/WingStateSaver/total?colorA=1e1e28&colorB=129415&label=Wing State Saver&style=for-the-badge"> <img alt="" width="75" height="30" src="https://img.shields.io/github/stars/arion-kun/WingStateSaver?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-</a></kbd><br>
+</a></kbd>
 <kbd><a href="https://github.com/Arion-Kun/ToggleMicIcon">
 	<img alt="" width="150" height="30" src="https://img.shields.io/github/downloads/arion-kun/ToggleMicIcon/total?colorA=1e1e28&colorB=129415&label=Toggle Mic Icon&style=for-the-badge">
 	<img alt="" width="75" height="30" src="https://img.shields.io/github/stars/arion-kun/ToggleMicIcon?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
