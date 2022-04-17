@@ -89,9 +89,6 @@ VRChat Mod Downloads are Inaccurate as of March 2021 as the VRCMG uses an <a hre
 <kbd><a href="https://github.com/Arion-Kun/ToggleUIStickers">
 	<img alt="" width="150" height="30" src="https://img.shields.io/github/downloads/arion-kun/ToggleUIStickers/total?colorA=1e1e28&colorB=129415&label=Toggle UI Stickers&style=for-the-badge"> <img alt="" width="75" height="30" src="https://img.shields.io/github/stars/arion-kun/ToggleUIStickers?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
 </a></kbd>
-<kbd><a href="https://github.com/Arion-Kun/StartupManager">
-<img alt="" width="150" height="30" src="https://img.shields.io/github/downloads/arion-kun/StartupManager/total?colorA=1e1e28&colorB=129415&label=Startup Manager&style=for-the-badge"> <img alt="" width="75" height="30" src="https://img.shields.io/github/stars/arion-kun/StartupManager?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-</a></kbd>
 <kbd><a href="https://github.com/Arion-Kun/MicSensitivity">
 	<img alt="" width="150" height="30" src="https://img.shields.io/github/downloads/arion-kun/MicSensitivity/total?colorA=1e1e28&colorB=129415&label=Mic Sensitivity&style=for-the-badge">
 	<img alt="" width="75" height="30" src="https://img.shields.io/github/stars/arion-kun/MicSensitivity?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
@@ -113,6 +110,9 @@ VRChat Mod Downloads are Inaccurate as of March 2021 as the VRCMG uses an <a hre
 </a></kbd>
 <kbd><a href="https://github.com/Arion-Kun/RainmeterWrapper">
 	<img alt="" width="150" height="30" src="https://img.shields.io/github/downloads/arion-kun/RainmeterWrapper/total?colorA=1e1e28&colorB=129415&label=Rainmeter Wrapper&style=for-the-badge"> <img alt="" width="75" height="30" src="https://img.shields.io/github/stars/arion-kun/RainmeterWrapper?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+</a></kbd>
+<kbd><a href="https://github.com/Arion-Kun/StartupManager">
+	<img alt="" width="150" height="30" src="https://img.shields.io/github/downloads/arion-kun/StartupManager/total?colorA=1e1e28&colorB=129415&label=Startup Manager&style=for-the-badge"> <img alt="" width="75" height="30" src="https://img.shields.io/github/stars/arion-kun/StartupManager?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
 </a></kbd>
 	
 </p><br>
