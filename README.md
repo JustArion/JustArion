@@ -80,7 +80,7 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
 
 VRChat Mod Downloads are Inaccurate as of March 2021 as the VRCMG uses an <a href="https://api.vrcmg.com/v0/mods.json">API</a> which now caches downloads on a per-update basis<br>
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png"/>
+<img align="right" width="100" heigh="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png"/>
 <p>
 	
 <kbd><a href="https://github.com/Arion-Kun/PostProcessing">
@@ -117,7 +117,7 @@ VRChat Mod Downloads are Inaccurate as of March 2021 as the VRCMG uses an <a hre
 	
 </p><br>
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png"/>
+<img align="right" width="100" heigh="100"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png"/>
 <p>
 	
 <kbd><a href="https://github.com/Arion-Kun/GoZippy">
