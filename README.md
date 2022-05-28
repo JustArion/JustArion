@@ -101,9 +101,11 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
                 <img alt="" src="https://img.shields.io/github/downloads/arion-kun/PostProcessing/total?colorA=1e1e28&colorB=129415&label=Post Processing%2b&style=for-the-badge">
             </td>
             <td>
+		<a href="https://github.com/Arion-Kun/PostProcessing/stargazers">
                 <img alt="" src="https://img.shields.io/github/stars/arion-kun/PostProcessing?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             <td>
+		    <a href="https://github.com/Arion-Kun/PostProcessing/network/members">
                 <img alt="" src="https://img.shields.io/github/forks/arion-kun/PostProcessing?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             </a>
@@ -119,9 +121,11 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
                 <img alt="" src="https://img.shields.io/github/downloads/arion-kun/MicSensitivity/total?colorA=1e1e28&colorB=129415&label=Mic Sensitivity&style=for-the-badge">
             </td>
             <td>
+		<a href="https://github.com/Arion-Kun/MicSensitivity/stargazers">
                 <img alt="" src="https://img.shields.io/github/stars/arion-kun/MicSensitivity?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             <td>
+		<a href="https://github.com/Arion-Kun/MicSensitivity/network/members">
                 <img alt="" src="https://img.shields.io/github/forks/arion-kun/MicSensitivity?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             </a>
@@ -137,9 +141,11 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
                 <img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleMicIcon/total?colorA=1e1e28&colorB=129415&label=Toggle Mic Icon&style=for-the-badge">
             </td>
             <td>
+		<a href="https://github.com/Arion-Kun/ToggleMicIcon/stargazers">
                 <img alt="" src="https://img.shields.io/github/stars/arion-kun/ToggleMicIcon?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             <td>
+		<a href="https://github.com/Arion-Kun/ToggleMicIcon/network/members">
                 <img alt="" src="https://img.shields.io/github/forks/arion-kun/ToggleMicIcon?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             </a>
@@ -155,9 +161,11 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
                 <img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleUIStickers/total?colorA=1e1e28&colorB=129415&label=Toggle UI Stickers&style=for-the-badge">
             </td>
             <td>
+		<a href="https://github.com/Arion-Kun/ToggleUIStickers/stargazers">
                 <img alt="" src="https://img.shields.io/github/stars/arion-kun/ToggleUIStickers?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             <td>
+		<a href="https://github.com/Arion-Kun/ToggleUIStickers/network/members">
                 <img alt="" src="https://img.shields.io/github/forks/arion-kun/ToggleUIStickers?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             </a>
@@ -173,9 +181,11 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
                 <img alt="" src="https://img.shields.io/github/downloads/arion-kun/ConsoleEncodingFix/total?colorA=1e1e28&colorB=129415&label=Console Encoding Fix&style=for-the-badge">
             </td>
             <td>
+		<a href="https://github.com/Arion-Kun/ConsoleEncodingFix/stargazers">
                 <img alt="" src="https://img.shields.io/github/stars/arion-kun/ConsoleEncodingFix?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             <td>
+		<a href="https://github.com/Arion-Kun/ConsoleEncodingFix/network/members">
                 <img alt="" src="https://img.shields.io/github/forks/arion-kun/ConsoleEncodingFix?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             </a>
@@ -191,9 +201,11 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
                 <img alt="" src="https://img.shields.io/github/downloads/arion-kun/WingStateSaver/total?colorA=1e1e28&colorB=129415&label=Wing State Saver&style=for-the-badge">
             </td>
             <td>
+		<a href="https://github.com/Arion-Kun/WingStateSaver/stargazers">
                 <img alt="" src="https://img.shields.io/github/stars/arion-kun/WingStateSaver?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             <td>
+	    	<a href="https://github.com/Arion-Kun/WingStateSaver/network/members">
                 <img alt="" src="https://img.shields.io/github/forks/arion-kun/WingStateSaver?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             </a>
@@ -209,9 +221,11 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
                 <img alt="" src="https://img.shields.io/github/downloads/arion-kun/ResizePls/total?colorA=1e1e28&colorB=129415&label=Resize Pls&style=for-the-badge">
             </td>
             <td>
+		<a href="https://github.com/Arion-Kun/ResizePls/stargazers">
                 <img alt="" src="https://img.shields.io/github/stars/arion-kun/ResizePls?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             <td>
+		<a href="https://github.com/Arion-Kun/ResizePls/network/members">
                 <img alt="" src="https://img.shields.io/github/forks/arion-kun/ResizePls?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             </a>
@@ -227,9 +241,11 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
                 <img alt="" src="https://img.shields.io/github/downloads/arion-kun/StartupManager/total?colorA=1e1e28&colorB=129415&label=Startup Manager&style=for-the-badge">
             </td>
             <td>
+		<a href="https://github.com/Arion-Kun/StartupManager/stargazers">
                 <img alt="" src="https://img.shields.io/github/stars/arion-kun/StartupManager?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             <td>
+		<a href="https://github.com/Arion-Kun/StartupManager/network/members">
                 <img alt="" src="https://img.shields.io/github/forks/arion-kun/StartupManager?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             </a>
@@ -245,9 +261,11 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
                 <img alt="" src="https://img.shields.io/github/downloads/arion-kun/RainmeterWrapper/total?colorA=1e1e28&colorB=129415&label=Rainmeter Wrapper&style=for-the-badge">
             </td>
             <td>
+		<a href="https://github.com/Arion-Kun/RainmeterWrapper/stargazers">
                 <img alt="" src="https://img.shields.io/github/stars/arion-kun/RainmeterWrapper?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             <td>
+		<a href="https://github.com/Arion-Kun/RainmeterWrapper/network/members">
                 <img alt="" src="https://img.shields.io/github/forks/arion-kun/RainmeterWrapper?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             </a>
@@ -264,9 +282,11 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
                 <img alt="" src="https://img.shields.io/github/downloads/arion-kun/GoZippy/total?colorA=1e1e28&colorB=38ADD8&label=Go Zippy&style=for-the-badge">
             </td>
             <td>
+		<a href="https://github.com/Arion-Kun/GoZippy/stargazers">
                 <img alt="" src="https://img.shields.io/github/stars/arion-kun/GoZippy?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             <td>
+		<a href="https://github.com/Arion-Kun/GoZippy/network/members">
                 <img alt="" src="https://img.shields.io/github/forks/arion-kun/GoZippy?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             </a>
@@ -282,9 +302,11 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
                 <img alt="" src="https://img.shields.io/github/downloads/arion-kun/GoLaunch/total?colorA=1e1e28&colorB=38ADD8&label=Go Launch&style=for-the-badge">
             </td>
             <td>
+		<a href="https://github.com/Arion-Kun/GoLaunch/stargazers">
                 <img alt="" src="https://img.shields.io/github/stars/arion-kun/GoLaunch?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             <td>
+		<a href="https://github.com/Arion-Kun/GoLaunch/network/members">
                 <img alt="" src="https://img.shields.io/github/forks/arion-kun/GoLaunch?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             </a>
