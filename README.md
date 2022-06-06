@@ -3,8 +3,6 @@
 	<img src="https://komarev.com/ghpvc/?username=Arion-Kun&style=for-the-badge">
 </a>
 
-<img align="left" src="https://readme-typing-svg.herokuapp.com?lines=Keep%20Coding!;CSharp%20|%20GoLang%20|%20Python;Always%20learning%20new%20things;Hope%20my%20work%20helps%20you%20achieve%20what%20you%20want!&width=500&height=50">
-
 <img align="right" width="300" src="https://cdn.discordapp.com/attachments/857319153031315456/945032662987472906/bg_2.png">
 <br><br>
 
