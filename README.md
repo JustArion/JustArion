@@ -309,5 +309,26 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
             </td>
             </a>
         </tr>
+	<!-- Javascript 1 Thing, nothing more! -->
+        <!-- Powercord Video-Background -->
+        <tr>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/JavaScript">
+                <img width="30" heigh="30" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/b88c4cb166666bb3a1dbac8166c099d4131ee04c/icons/file_type_js_official.svg"/>
+            </td>
+            <td>
+                <a href="https://github.com/Arion-Kun/replugged-video-background">
+                <img alt="" src="https://img.shields.io/badge/Video%20Background-%20-yellow?colorA=1e1e28&colorB=yellow&style=for-the-badge">
+            </td>
+            <td>
+		<a href="https://github.com/Arion-Kun/replugged-video-background/stargazers">
+                <img alt="" src="https://img.shields.io/github/stars/arion-kun/replugged-video-background?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+            </td>
+            <td>
+		    <a href="https://github.com/Arion-Kun/replugged-video-background/network/members">
+                <img alt="" src="https://img.shields.io/github/forks/arion-kun/replugged-video-background?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+            </td>
+            </a>
+        </tr>
     </table>
 </p>
