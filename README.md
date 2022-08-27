@@ -87,7 +87,6 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
             <th>Stars</th>
             <th>Forks</th>
         </tr>
-        <!-- C# Stuff -->
         <!-- PostProcessing+ -->
         <tr>
             <td>
@@ -96,7 +95,7 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
             </td>
             <td>
                 <a href="https://github.com/Arion-Kun/PostProcessing">
-                <img alt="" src="https://img.shields.io/github/downloads/arion-kun/PostProcessing/total?colorA=1e1e28&colorB=129415&label=Post Processing%2b&style=for-the-badge">
+                <img alt="" src="https://img.shields.io/github/downloads/arion-kun/PostProcessing/total?colorA=1e1e28&colorB=129415&label=Post Processing%2bㅤ  ㅤㅤ&style=for-the-badge">
             </td>
             <td>
 		<a href="https://github.com/Arion-Kun/PostProcessing/stargazers">
@@ -116,7 +115,7 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
             </td>
             <td>
                 <a href="https://github.com/Arion-Kun/MicSensitivity">
-                <img alt="" src="https://img.shields.io/github/downloads/arion-kun/MicSensitivity/total?colorA=1e1e28&colorB=129415&label=Mic Sensitivity&style=for-the-badge">
+                <img alt="" src="https://img.shields.io/github/downloads/arion-kun/MicSensitivity/total?colorA=1e1e28&colorB=129415&label=Mic Sensitivityㅤ ㅤ ㅤㅤㅤ&style=for-the-badge">
             </td>
             <td>
 		<a href="https://github.com/Arion-Kun/MicSensitivity/stargazers">
@@ -136,7 +135,7 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
             </td>
             <td>
                 <a href="https://github.com/Arion-Kun/ToggleMicIcon">
-                <img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleMicIcon/total?colorA=1e1e28&colorB=129415&label=Toggle Mic Icon&style=for-the-badge">
+                <img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleMicIcon/total?colorA=1e1e28&colorB=129415&label=Toggle Mic Iconㅤ ㅤㅤㅤㅤ&style=for-the-badge">
             </td>
             <td>
 		<a href="https://github.com/Arion-Kun/ToggleMicIcon/stargazers">
@@ -148,23 +147,23 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
             </td>
             </a>
         </tr>
-        <!-- ToggleUIStickers -->
+        <!-- GoZippy -->
         <tr>
             <td>
-                <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-                <img width="30" heigh="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png"/>
+                <a href="https://en.wikipedia.org/wiki/Go_(programming_language)">
+                <img width="30" heigh="30"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png"/>
             </td>
             <td>
-                <a href="https://github.com/Arion-Kun/ToggleUIStickers">
-                <img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleUIStickers/total?colorA=1e1e28&colorB=129415&label=Toggle UI Stickers&style=for-the-badge">
+                <a href="https://github.com/Arion-Kun/GoZippy">
+                <img alt="" src="https://img.shields.io/github/downloads/arion-kun/GoZippy/total?colorA=1e1e28&colorB=38ADD8&label=Go Zippyㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤ&style=for-the-badge">
             </td>
             <td>
-		<a href="https://github.com/Arion-Kun/ToggleUIStickers/stargazers">
-                <img alt="" src="https://img.shields.io/github/stars/arion-kun/ToggleUIStickers?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+		<a href="https://github.com/Arion-Kun/GoZippy/stargazers">
+                <img alt="" src="https://img.shields.io/github/stars/arion-kun/GoZippy?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             <td>
-		<a href="https://github.com/Arion-Kun/ToggleUIStickers/network/members">
-                <img alt="" src="https://img.shields.io/github/forks/arion-kun/ToggleUIStickers?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+		<a href="https://github.com/Arion-Kun/GoZippy/network/members">
+                <img alt="" src="https://img.shields.io/github/forks/arion-kun/GoZippy?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             </a>
         </tr>
@@ -176,7 +175,7 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
             </td>
             <td>
                 <a href="https://github.com/Arion-Kun/ConsoleEncodingFix">
-                <img alt="" src="https://img.shields.io/github/downloads/arion-kun/ConsoleEncodingFix/total?colorA=1e1e28&colorB=129415&label=Console Encoding Fix&style=for-the-badge">
+                <img alt="" src="https://img.shields.io/github/downloads/arion-kun/ConsoleEncodingFix/total?colorA=1e1e28&colorB=129415&label=Console Encoding Fixㅤㅤ&style=for-the-badge">
             </td>
             <td>
 		<a href="https://github.com/Arion-Kun/ConsoleEncodingFix/stargazers">
@@ -188,7 +187,47 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
             </td>
             </a>
         </tr>
-                <!-- WingStateSaver -->
+        <!-- StartupManager -->
+        <tr>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+                <img width="30" heigh="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png"/>
+            </td>
+            <td>
+                <a href="https://github.com/Arion-Kun/StartupManager">
+                <img alt="" src="https://img.shields.io/github/downloads/arion-kun/StartupManager/total?colorA=1e1e28&colorB=129415&label=Startup Managerㅤㅤㅤㅤㅤ&style=for-the-badge">
+            </td>
+            <td>
+		<a href="https://github.com/Arion-Kun/StartupManager/stargazers">
+                <img alt="" src="https://img.shields.io/github/stars/arion-kun/StartupManager?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+            </td>
+            <td>
+		<a href="https://github.com/Arion-Kun/StartupManager/network/members">
+                <img alt="" src="https://img.shields.io/github/forks/arion-kun/StartupManager?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+            </td>
+            </a>
+        </tr>
+        <!-- ToggleUIStickers -->
+        <tr>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+                <img width="30" heigh="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png"/>
+            </td>
+            <td>
+                <a href="https://github.com/Arion-Kun/ToggleUIStickers">
+                <img alt="" src="https://img.shields.io/github/downloads/arion-kun/ToggleUIStickers/total?colorA=1e1e28&colorB=129415&label=Toggle UI Stickersㅤㅤㅤㅤ&style=for-the-badge">
+            </td>
+            <td>
+		<a href="https://github.com/Arion-Kun/ToggleUIStickers/stargazers">
+                <img alt="" src="https://img.shields.io/github/stars/arion-kun/ToggleUIStickers?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+            </td>
+            <td>
+		<a href="https://github.com/Arion-Kun/ToggleUIStickers/network/members">
+                <img alt="" src="https://img.shields.io/github/forks/arion-kun/ToggleUIStickers?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+            </td>
+            </a>
+        </tr>
+        <!-- WingStateSaver -->
         <tr>
             <td>
                 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
@@ -196,7 +235,7 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
             </td>
             <td>
                 <a href="https://github.com/Arion-Kun/WingStateSaver">
-                <img alt="" src="https://img.shields.io/github/downloads/arion-kun/WingStateSaver/total?colorA=1e1e28&colorB=129415&label=Wing State Saver&style=for-the-badge">
+                <img alt="" src="https://img.shields.io/github/downloads/arion-kun/WingStateSaver/total?colorA=1e1e28&colorB=129415&label=Wing State Saverㅤㅤㅤㅤㅤ&style=for-the-badge">
             </td>
             <td>
 		<a href="https://github.com/Arion-Kun/WingStateSaver/stargazers">
@@ -216,7 +255,7 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
             </td>
             <td>
                 <a href="https://github.com/Arion-Kun/ResizePls">
-                <img alt="" src="https://img.shields.io/github/downloads/arion-kun/ResizePls/total?colorA=1e1e28&colorB=129415&label=Resize Pls&style=for-the-badge">
+                <img alt="" src="https://img.shields.io/github/downloads/arion-kun/ResizePls/total?colorA=1e1e28&colorB=129415&label=Resize Plsㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ&style=for-the-badge">
             </td>
             <td>
 		<a href="https://github.com/Arion-Kun/ResizePls/stargazers">
@@ -228,26 +267,6 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
             </td>
             </a>
         </tr>
-        <!-- StartupManager -->
-        <tr>
-            <td>
-                <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-                <img width="30" heigh="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png"/>
-            </td>
-            <td>
-                <a href="https://github.com/Arion-Kun/StartupManager">
-                <img alt="" src="https://img.shields.io/github/downloads/arion-kun/StartupManager/total?colorA=1e1e28&colorB=129415&label=Startup Manager&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/Arion-Kun/StartupManager/stargazers">
-                <img alt="" src="https://img.shields.io/github/stars/arion-kun/StartupManager?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/Arion-Kun/StartupManager/network/members">
-                <img alt="" src="https://img.shields.io/github/forks/arion-kun/StartupManager?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            </a>
-        </tr>
         <!-- RainmeterWrapper -->
         <tr>
             <td>
@@ -256,7 +275,7 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
             </td>
             <td>
                 <a href="https://github.com/Arion-Kun/RainmeterWrapper">
-                <img alt="" src="https://img.shields.io/github/downloads/arion-kun/RainmeterWrapper/total?colorA=1e1e28&colorB=129415&label=Rainmeter Wrapper&style=for-the-badge">
+                <img alt="" src="https://img.shields.io/github/downloads/arion-kun/RainmeterWrapper/total?colorA=1e1e28&colorB=129415&label=Rainmeter Wrapperㅤㅤㅤㅤ&style=for-the-badge">
             </td>
             <td>
 		<a href="https://github.com/Arion-Kun/RainmeterWrapper/stargazers">
@@ -268,27 +287,6 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
             </td>
             </a>
         </tr>
-        <!-- GoLang Stuff -->
-        <!-- GoZippy -->
-        <tr>
-            <td>
-                <a href="https://en.wikipedia.org/wiki/Go_(programming_language)">
-                <img width="30" heigh="30"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png"/>
-            </td>
-            <td>
-                <a href="https://github.com/Arion-Kun/GoZippy">
-                <img alt="" src="https://img.shields.io/github/downloads/arion-kun/GoZippy/total?colorA=1e1e28&colorB=38ADD8&label=Go Zippy&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/Arion-Kun/GoZippy/stargazers">
-                <img alt="" src="https://img.shields.io/github/stars/arion-kun/GoZippy?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/Arion-Kun/GoZippy/network/members">
-                <img alt="" src="https://img.shields.io/github/forks/arion-kun/GoZippy?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            </a>
-        </tr>
         <!-- GoLaunch -->
         <tr>
             <td>
@@ -297,7 +295,7 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
             </td>
             <td>
                 <a href="https://github.com/Arion-Kun/GoLaunch">
-                <img alt="" src="https://img.shields.io/github/downloads/arion-kun/GoLaunch/total?colorA=1e1e28&colorB=38ADD8&label=Go Launch&style=for-the-badge">
+                <img alt="" src="https://img.shields.io/github/downloads/arion-kun/GoLaunch/total?colorA=1e1e28&colorB=38ADD8&label=Go Launchㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ&style=for-the-badge">
             </td>
             <td>
 		<a href="https://github.com/Arion-Kun/GoLaunch/stargazers">
@@ -318,7 +316,7 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
             </td>
             <td>
                 <a href="https://github.com/Arion-Kun/replugged-video-background">
-                <img alt="" src="https://img.shields.io/badge/Video%20Background-%20-yellow?colorA=1e1e28&colorB=yellow&style=for-the-badge">
+                <img alt="" src="https://img.shields.io/badge/Video%20Backgroundㅤㅤㅤㅤㅤ-%20-yellow?colorA=1e1e28&colorB=yellow&style=for-the-badge">
             </td>
             <td>
 		<a href="https://github.com/Arion-Kun/replugged-video-background/stargazers">
