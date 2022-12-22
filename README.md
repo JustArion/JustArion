@@ -23,26 +23,26 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
     <kbd>Back-end</kbd>
     <br>
     <br>
-	<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /></a>
-	<a href="https://en.wikipedia.org/wiki/Go_(programming_language)"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /></a>
-	<a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+	<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /></a>
+	<a href="https://en.wikipedia.org/wiki/Go_(programming_language)"><img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /></a>
+	<a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
   </kbd>
   <kbd>
     <kbd>Library/FrameWorks</kbd>
     <br>
     <br>
-	<a href="https://www.nuget.org/"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/NuGet_project_logo.svg/64px-NuGet_project_logo.svg.png" /></a>
-	<a href="https://www.tutorialsteacher.com/core/dotnet-core"><img width="30px" src="https://cdn.discordapp.com/attachments/857319153031315456/945022087196725298/dotnet-logo.png" /></a>
-	<a href="https://en.wikipedia.org/wiki/.NET_Framework"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/120px-.NET_Logo.svg.png" /></a>
+	<a href="https://www.nuget.org/"><img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/NuGet_project_logo.svg/64px-NuGet_project_logo.svg.png" /></a>
+	<a href="https://www.tutorialsteacher.com/core/dotnet-core"><img height="30px" src="https://cdn.discordapp.com/attachments/857319153031315456/945022087196725298/dotnet-logo.png" /></a>
+	<a href="https://en.wikipedia.org/wiki/.NET_Framework"><img height="30px" src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" /></a>
   </kbd>
   <br>
   <kbd>
     <kbd>Terminal Scripts</kbd>
     <br>
     <br>
-	<a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-	<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>
-	<a href="https://en.wikipedia.org/wiki/PowerShell"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/PowerShell_Core_6.0_icon.png/121px-PowerShell_Core_6.0_icon.png" /></a>
+	<a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+	<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>
+	<a href="https://en.wikipedia.org/wiki/PowerShell"><img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/PowerShell_Core_6.0_icon.png/121px-PowerShell_Core_6.0_icon.png" /></a>
   </kbd>
 <kbd>
     <kbd>OS</kbd>
