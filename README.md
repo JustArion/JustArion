@@ -275,7 +275,8 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
             </td>
             <td>
                 <a href="https://github.com/JustArion/RainmeterWrapper">
-                <img alt="" src="https://img.shields.io/github/downloads/JustArion/RainmeterWrapper/total?colorA=1e1e28&colorB=129415&label=Rainmeter Wrapperㅤㅤㅤㅤ&style=for-the-badge">
+                <!-- <img alt="" src="https://img.shields.io/github/downloads/JustArion/RainmeterWrapper/total?colorA=1e1e28&colorB=129415&label=Rainmeter Wrapperㅤㅤㅤㅤ&style=for-the-badge"> -->
+                <img alt="" src="https://img.shields.io/badge/Rainmeter%20Wrapperㅤㅤ%20ㅤㅤㅤ-%20-green?colorA=1e1e28&colorB=129415&style=for-the-badge">
             </td>
             <td>
 		<a href="https://github.com/JustArion/RainmeterWrapper/stargazers">
@@ -295,7 +296,8 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
             </td>
             <td>
                 <a href="https://github.com/JustArion/GoLaunch">
-                <img alt="" src="https://img.shields.io/github/downloads/JustArion/GoLaunch/total?colorA=1e1e28&colorB=38ADD8&label=Go Launchㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ&style=for-the-badge">
+                <!-- <img alt="" src="https://img.shields.io/github/downloads/JustArion/GoLaunch/total?colorA=1e1e28&colorB=38ADD8&label=Go Launchㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ&style=for-the-badge"> -->
+                <img alt="" src="https://img.shields.io/badge/GoLaunchㅤㅤㅤ%20ㅤㅤㅤㅤㅤㅤㅤㅤ-%20-blue?colorA=1e1e28&colorB=38ADD8&style=for-the-badge">
             </td>
             <td>
 		<a href="https://github.com/JustArion/GoLaunch/stargazers">
@@ -316,7 +318,7 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
             </td>
             <td>
                 <a href="https://github.com/JustArion/replugged-video-background">
-                <img alt="" src="https://img.shields.io/badge/Video%20Backgroundㅤㅤㅤㅤㅤ-%20-yellow?colorA=1e1e28&colorB=yellow&style=for-the-badge">
+                <img alt="" src="https://img.shields.io/badge/Video%20Backgroundㅤㅤㅤㅤㅤㅤ-%20-yellow?colorA=1e1e28&colorB=yellow&style=for-the-badge">
             </td>
             <td>
 		<a href="https://github.com/JustArion/replugged-video-background/stargazers">
