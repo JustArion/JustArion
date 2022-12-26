@@ -288,6 +288,47 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
             </td>
             </a>
         </tr>
+        <!-- Javascript 1 Thing, nothing more! -->
+        <!-- Powercord Video-Background -->
+        <tr>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/JavaScript">
+                <img width="30" heigh="30" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/b88c4cb166666bb3a1dbac8166c099d4131ee04c/icons/file_type_js_official.svg"/>
+            </td>
+            <td>
+                <a href="https://github.com/JustArion/replugged-video-background">
+                <img alt="" src="https://img.shields.io/badge/Video%20Backgroundㅤㅤㅤㅤㅤㅤ-%20-yellow?colorA=1e1e28&colorB=yellow&style=for-the-badge">
+            </td>
+            <td>
+		<a href="https://github.com/JustArion/replugged-video-background/stargazers">
+                <img alt="" src="https://img.shields.io/github/stars/JustArion/replugged-video-background?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+            </td>
+            <td>
+		    <a href="https://github.com/JustArion/replugged-video-background/network/members">
+                <img alt="" src="https://img.shields.io/github/forks/JustArion/replugged-video-background?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+            </td>
+            </a>
+        </tr>
+        <!-- PopupHost Fix -->
+                <tr>
+            <td>
+                <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+                <img width="30" heigh="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png"/>
+            </td>
+            <td>
+                <a href="https://github.com/JustArion/Win11_PopupHost_Fix">
+                <img alt="" src="https://img.shields.io/badge/Win11_PopupHost_Fixㅤ%20ㅤㅤㅤ-%20-green?colorA=1e1e28&colorB=129415&style=for-the-badge">
+            </td>
+            <td>
+		<a href="https://github.com/JustArion/Win11_PopupHost_Fix/stargazers">
+                <img alt="" src="https://img.shields.io/github/stars/JustArion/Win11_PopupHost_Fix?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+            </td>
+            <td>
+		<a href="https://github.com/JustArion/Win11_PopupHost_Fix/network/members">
+                <img alt="" src="https://img.shields.io/github/forks/JustArion/Win11_PopupHost_Fix?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+            </td>
+            </a>
+        </tr>
         <!-- GoLaunch -->
         <tr>
             <td>
@@ -306,27 +347,6 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
             <td>
 		<a href="https://github.com/JustArion/GoLaunch/network/members">
                 <img alt="" src="https://img.shields.io/github/forks/JustArion/GoLaunch?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            </a>
-        </tr>
-	<!-- Javascript 1 Thing, nothing more! -->
-        <!-- Powercord Video-Background -->
-        <tr>
-            <td>
-                <a href="https://en.wikipedia.org/wiki/JavaScript">
-                <img width="30" heigh="30" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/b88c4cb166666bb3a1dbac8166c099d4131ee04c/icons/file_type_js_official.svg"/>
-            </td>
-            <td>
-                <a href="https://github.com/JustArion/replugged-video-background">
-                <img alt="" src="https://img.shields.io/badge/Video%20Backgroundㅤㅤㅤㅤㅤㅤ-%20-yellow?colorA=1e1e28&colorB=yellow&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/replugged-video-background/stargazers">
-                <img alt="" src="https://img.shields.io/github/stars/JustArion/replugged-video-background?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            <td>
-		    <a href="https://github.com/JustArion/replugged-video-background/network/members">
-                <img alt="" src="https://img.shields.io/github/forks/JustArion/replugged-video-background?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
             </td>
             </a>
         </tr>
