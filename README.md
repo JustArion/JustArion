@@ -128,32 +128,6 @@
 				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/GoZippy/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</td>
 		</tr>
-		<!-- ConsoleEncodingFix -->
-		<tr>
-			<td>
-					<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-						<img alt="C#" width="30" height="30" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png"/>
-					</a>
-				</td>
-				<td>
-					<a href="https://github.com/JustArion/ConsoleEncodingFix">
-						<img alt="Console Encoding Fix" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Console_Encoding_Fix.svg">
-					</a>
-				</td>
-				<td>
-					<a href="https://github.com/JustArion/ConsoleEncodingFix/stargazers">
-						<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/ConsoleEncodingFix?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-					</a>
-				</td>
-				<td>
-					<a href="https://github.com/JustArion/ConsoleEncodingFix/network/members">
-						<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/ConsoleEncodingFix?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-					</a>
-				</td>
-				<td>
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/ConsoleEncodingFix/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</td>
-		</tr>
 		<!-- StartupManager -->
 		<tr>
 			<td>
@@ -178,6 +152,32 @@
 				</td>
 				<td>
 				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/StartupManager/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+			</td>
+		</tr>
+		<!-- ConsoleEncodingFix -->
+		<tr>
+			<td>
+					<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+						<img alt="C#" width="30" height="30" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png"/>
+					</a>
+				</td>
+				<td>
+					<a href="https://github.com/JustArion/ConsoleEncodingFix">
+						<img alt="Console Encoding Fix" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Console_Encoding_Fix.svg">
+					</a>
+				</td>
+				<td>
+					<a href="https://github.com/JustArion/ConsoleEncodingFix/stargazers">
+						<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/ConsoleEncodingFix?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+					</a>
+				</td>
+				<td>
+					<a href="https://github.com/JustArion/ConsoleEncodingFix/network/members">
+						<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/ConsoleEncodingFix?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+					</a>
+				</td>
+				<td>
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/ConsoleEncodingFix/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</td>
 		</tr>
 		<!-- ToggleUIStickers -->
