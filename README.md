@@ -77,278 +77,301 @@ Hey, arion here! I mainly enjoy C#, majored in Political Science and Philosophy 
 <h3>🗒️ Notable Downloads</h3>
 
 <p>
-    VRChat Mod Downloads are Inaccurate as of March 2021 as the VRCMG uses an <a href="https://api.vrcmg.com/v0/mods.json">API</a> which now caches downloads on a per-update basis<br>
-</p>
+    VRChat Mod Downloads are Inaccurate as of March 2021 as the VRCMG uses an <a href="https://api.vrcmg.com/v0/mods.json">API</a> which caches downloads on a per-update basis<br>
+
 <!-- Table -->
-	<table>
-        <tr>
-            <th>Lang</th>
-            <th>Downloads</th>
-            <th>Stars</th>
-            <th>Forks</th>
-        </tr>
-        <!-- PostProcessing+ -->
-        <tr>
-            <td>
-                <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-                <img width="30" heigh="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png"/>
-            </td>
-            <td>
-                <a href="https://github.com/JustArion/PostProcessing">
-                <img alt="" src="https://img.shields.io/github/downloads/JustArion/PostProcessing/total?colorA=1e1e28&colorB=129415&label=Post Processing%2bㅤ  ㅤㅤ&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/PostProcessing/stargazers">
-                <img alt="" src="https://img.shields.io/github/stars/JustArion/PostProcessing?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            <td>
-		    <a href="https://github.com/JustArion/PostProcessing/network/members">
-                <img alt="" src="https://img.shields.io/github/forks/JustArion/PostProcessing?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            </a>
-        </tr>
-        <!-- MicSensitivity -->
-       <tr>
-            <td>
-                <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-                <img width="30" heigh="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png"/>
-            </td>
-            <td>
-                <a href="https://github.com/JustArion/MicSensitivity">
-                <img alt="" src="https://img.shields.io/github/downloads/JustArion/MicSensitivity/total?colorA=1e1e28&colorB=129415&label=Mic Sensitivityㅤ ㅤ ㅤㅤㅤ&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/MicSensitivity/stargazers">
-                <img alt="" src="https://img.shields.io/github/stars/JustArion/MicSensitivity?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/MicSensitivity/network/members">
-                <img alt="" src="https://img.shields.io/github/forks/JustArion/MicSensitivity?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            </a>
-        </tr>
-        <!-- ToggleMicIcon -->
-        <tr>
-            <td>
-                <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-                <img width="30" heigh="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png"/>
-            </td>
-            <td>
-                <a href="https://github.com/JustArion/ToggleMicIcon">
-                <img alt="" src="https://img.shields.io/github/downloads/JustArion/ToggleMicIcon/total?colorA=1e1e28&colorB=129415&label=Toggle Mic Iconㅤ ㅤㅤㅤㅤ&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/ToggleMicIcon/stargazers">
-                <img alt="" src="https://img.shields.io/github/stars/JustArion/ToggleMicIcon?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/ToggleMicIcon/network/members">
-                <img alt="" src="https://img.shields.io/github/forks/JustArion/ToggleMicIcon?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            </a>
-        </tr>
-        <!-- GoZippy -->
-        <tr>
-            <td>
-                <a href="https://en.wikipedia.org/wiki/Go_(programming_language)">
-                <img width="30" heigh="30"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png"/>
-            </td>
-            <td>
-                <a href="https://github.com/JustArion/GoZippy">
-                <img alt="" src="https://img.shields.io/github/downloads/JustArion/GoZippy/total?colorA=1e1e28&colorB=38ADD8&label=Go Zippyㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤ&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/GoZippy/stargazers">
-                <img alt="" src="https://img.shields.io/github/stars/JustArion/GoZippy?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/GoZippy/network/members">
-                <img alt="" src="https://img.shields.io/github/forks/JustArion/GoZippy?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            </a>
-        </tr>
-        <!-- ConsoleEncodingFix -->
-        <tr>
-            <td>
-                <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-                <img width="30" heigh="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png"/>
-            </td>
-            <td>
-                <a href="https://github.com/JustArion/ConsoleEncodingFix">
-                <img alt="" src="https://img.shields.io/github/downloads/JustArion/ConsoleEncodingFix/total?colorA=1e1e28&colorB=129415&label=Console Encoding Fixㅤㅤ&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/ConsoleEncodingFix/stargazers">
-                <img alt="" src="https://img.shields.io/github/stars/JustArion/ConsoleEncodingFix?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/ConsoleEncodingFix/network/members">
-                <img alt="" src="https://img.shields.io/github/forks/JustArion/ConsoleEncodingFix?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            </a>
-        </tr>
-        <!-- StartupManager -->
-        <tr>
-            <td>
-                <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-                <img width="30" heigh="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png"/>
-            </td>
-            <td>
-                <a href="https://github.com/JustArion/StartupManager">
-                <img alt="" src="https://img.shields.io/github/downloads/JustArion/StartupManager/total?colorA=1e1e28&colorB=129415&label=Startup Managerㅤㅤㅤㅤㅤ&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/StartupManager/stargazers">
-                <img alt="" src="https://img.shields.io/github/stars/JustArion/StartupManager?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/StartupManager/network/members">
-                <img alt="" src="https://img.shields.io/github/forks/JustArion/StartupManager?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            </a>
-        </tr>
-        <!-- ToggleUIStickers -->
-        <tr>
-            <td>
-                <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-                <img width="30" heigh="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png"/>
-            </td>
-            <td>
-                <a href="https://github.com/JustArion/ToggleUIStickers">
-                <img alt="" src="https://img.shields.io/github/downloads/JustArion/ToggleUIStickers/total?colorA=1e1e28&colorB=129415&label=Toggle UI Stickersㅤㅤㅤㅤ&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/ToggleUIStickers/stargazers">
-                <img alt="" src="https://img.shields.io/github/stars/JustArion/ToggleUIStickers?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/ToggleUIStickers/network/members">
-                <img alt="" src="https://img.shields.io/github/forks/JustArion/ToggleUIStickers?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            </a>
-        </tr>
-        <!-- WingStateSaver -->
-        <tr>
-            <td>
-                <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-                <img width="30" heigh="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png"/>
-            </td>
-            <td>
-                <a href="https://github.com/JustArion/WingStateSaver">
-                <img alt="" src="https://img.shields.io/github/downloads/JustArion/WingStateSaver/total?colorA=1e1e28&colorB=129415&label=Wing State Saverㅤㅤㅤㅤㅤ&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/WingStateSaver/stargazers">
-                <img alt="" src="https://img.shields.io/github/stars/JustArion/WingStateSaver?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            <td>
-	    	<a href="https://github.com/JustArion/WingStateSaver/network/members">
-                <img alt="" src="https://img.shields.io/github/forks/JustArion/WingStateSaver?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            </a>
-        </tr>
-        <!-- ResizePls -->
-        <tr>
-            <td>
-                <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-                <img width="30" heigh="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png"/>
-            </td>
-            <td>
-                <a href="https://github.com/JustArion/ResizePls">
-                <img alt="" src="https://img.shields.io/github/downloads/JustArion/ResizePls/total?colorA=1e1e28&colorB=129415&label=Resize Plsㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/ResizePls/stargazers">
-                <img alt="" src="https://img.shields.io/github/stars/JustArion/ResizePls?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/ResizePls/network/members">
-                <img alt="" src="https://img.shields.io/github/forks/JustArion/ResizePls?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            </a>
-        </tr>
-        <!-- RainmeterWrapper -->
-        <tr>
-            <td>
-                <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-                <img width="30" heigh="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png"/>
-            </td>
-            <td>
-                <a href="https://github.com/JustArion/RainmeterWrapper">
-                <!-- <img alt="" src="https://img.shields.io/github/downloads/JustArion/RainmeterWrapper/total?colorA=1e1e28&colorB=129415&label=Rainmeter Wrapperㅤㅤㅤㅤ&style=for-the-badge"> -->
-                <img alt="" src="https://img.shields.io/badge/Rainmeter%20Wrapperㅤㅤ%20ㅤㅤㅤ-%20-green?colorA=1e1e28&colorB=129415&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/RainmeterWrapper/stargazers">
-                <img alt="" src="https://img.shields.io/github/stars/JustArion/RainmeterWrapper?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/RainmeterWrapper/network/members">
-                <img alt="" src="https://img.shields.io/github/forks/JustArion/RainmeterWrapper?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            </a>
-        </tr>
-        <!-- Javascript 1 Thing, nothing more! -->
-        <!-- Powercord Video-Background -->
-        <tr>
-            <td>
-                <a href="https://en.wikipedia.org/wiki/JavaScript">
-                <img width="30" heigh="30" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/b88c4cb166666bb3a1dbac8166c099d4131ee04c/icons/file_type_js_official.svg"/>
-            </td>
-            <td>
-                <a href="https://github.com/JustArion/replugged-video-background">
-                <img alt="" src="https://img.shields.io/badge/Video%20Backgroundㅤㅤㅤㅤㅤㅤ-%20-yellow?colorA=1e1e28&colorB=yellow&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/replugged-video-background/stargazers">
-                <img alt="" src="https://img.shields.io/github/stars/JustArion/replugged-video-background?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            <td>
-		    <a href="https://github.com/JustArion/replugged-video-background/network/members">
-                <img alt="" src="https://img.shields.io/github/forks/JustArion/replugged-video-background?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            </a>
-        </tr>
-        <!-- PopupHost Fix -->
-                <tr>
-            <td>
-                <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-                <img width="30" heigh="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png"/>
-            </td>
-            <td>
-                <a href="https://github.com/JustArion/Win11_PopupHost_Fix">
-                <img alt="" src="https://img.shields.io/badge/Win11_PopupHost_Fixㅤ%20ㅤㅤㅤ-%20-green?colorA=1e1e28&colorB=129415&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/Win11_PopupHost_Fix/stargazers">
-                <img alt="" src="https://img.shields.io/github/stars/JustArion/Win11_PopupHost_Fix?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/Win11_PopupHost_Fix/network/members">
-                <img alt="" src="https://img.shields.io/github/forks/JustArion/Win11_PopupHost_Fix?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            </a>
-        </tr>
-        <!-- GoLaunch -->
-        <tr>
-            <td>
-                <a href="https://en.wikipedia.org/wiki/Go_(programming_language)">
-                <img width="30" heigh="30"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png"/>
-            </td>
-            <td>
-                <a href="https://github.com/JustArion/GoLaunch">
-                <!-- <img alt="" src="https://img.shields.io/github/downloads/JustArion/GoLaunch/total?colorA=1e1e28&colorB=38ADD8&label=Go Launchㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ&style=for-the-badge"> -->
-                <img alt="" src="https://img.shields.io/badge/GoLaunchㅤㅤㅤ%20ㅤㅤㅤㅤㅤㅤㅤㅤ-%20-blue?colorA=1e1e28&colorB=38ADD8&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/GoLaunch/stargazers">
-                <img alt="" src="https://img.shields.io/github/stars/JustArion/GoLaunch?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            <td>
-		<a href="https://github.com/JustArion/GoLaunch/network/members">
-                <img alt="" src="https://img.shields.io/github/forks/JustArion/GoLaunch?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-            </td>
-            </a>
-        </tr>
-    </table>
-</p>
+<table>
+	<tr>
+		<th>Lang</th>
+		<th>Repository</th>
+		<th>Stars</th>
+		<th>Forks</th>
+		<th>Downloads</th>
+	</tr>
+	<!-- PostProcessing+ -->
+	<tr>
+	    <td>
+	            <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+	                <img alt="C#" width="30" height="30" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png"/>
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/PostProcessing">
+	                <img alt="Post Processing+" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Post_Processing.svg">
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/PostProcessing/stargazers">
+	                <img alt="Stars" src="https://img.shields.io/github/stars/JustArion/PostProcessing?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/PostProcessing/network/members">
+	                <img alt="Forks" src="https://img.shields.io/github/forks/JustArion/PostProcessing?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	            </a>
+	        </td>
+	        <td>
+	        <img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/PostProcessing/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	    </td>
+	</tr>
+	<!-- MicSensitivity -->
+	<tr>
+	    <td>
+	            <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+	                <img alt="C#" width="30" height="30" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png"/>
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/PostProcessing">
+	                <img alt="Mic Sensitivity" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Mic_Sensitivity.svg">
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/MicSensitivity/stargazers">
+	                <img alt="Stars" src="https://img.shields.io/github/stars/JustArion/MicSensitivity?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/MicSensitivity/network/members">
+	                <img alt="Forks" src="https://img.shields.io/github/forks/JustArion/MicSensitivity?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	            </a>
+	        </td>
+	        <td>
+	        <img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/MicSensitivity/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	    </td>
+	</tr>
+	<!-- ToggleMicIcon -->
+	<tr>
+	    <td>
+	            <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+	                <img alt="C#" width="30" height="30" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png"/>
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/PostProcessing">
+	                <img alt="Toggle Mic Icon" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Toggle_Mic_Icon.svg">
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/ToggleMicIcon/stargazers">
+	                <img alt="Stars" src="https://img.shields.io/github/stars/JustArion/ToggleMicIcon?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/ToggleMicIcon/network/members">
+	                <img alt="Forks" src="https://img.shields.io/github/forks/JustArion/ToggleMicIcon?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	            </a>
+	        </td>
+	        <td>
+	        <img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/ToggleMicIcon/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	    </td>
+	</tr>
+	<!-- GoZippy -->
+	<tr>
+	    <td>
+	            <a href="https://en.wikipedia.org/wiki/Go_(programming_language)">
+	                <img alt="GO" width="30" height="30" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/Go.png"/>
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/GoZippy">
+	                <img alt="Go Zippy" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Go_Zippy.svg">
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/GoZippy/stargazers">
+	                <img alt="Stars" src="https://img.shields.io/github/stars/JustArion/GoZippy?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/GoZippy/network/members">
+	                <img alt="Forks" src="https://img.shields.io/github/forks/JustArion/GoZippy?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	            </a>
+	        </td>
+	        <td>
+	        <img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/GoZippy/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	    </td>
+	</tr>
+	<!-- ConsoleEncodingFix -->
+	<tr>
+	    <td>
+	            <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+	                <img alt="C#" width="30" height="30" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png"/>
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/ConsoleEncodingFix">
+	                <img alt="Console Encoding Fix" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Console_Encoding_Fix.svg">
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/ConsoleEncodingFix/stargazers">
+	                <img alt="Stars" src="https://img.shields.io/github/stars/JustArion/ConsoleEncodingFix?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/ConsoleEncodingFix/network/members">
+	                <img alt="Forks" src="https://img.shields.io/github/forks/JustArion/ConsoleEncodingFix?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	            </a>
+	        </td>
+	        <td>
+	        <img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/ConsoleEncodingFix/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	    </td>
+	</tr>
+	<!-- StartupManager -->
+	<tr>
+	    <td>
+	            <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+	                <img alt="C#" width="30" height="30" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png"/>
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/StartupManager">
+	                <img alt="Startup Manager" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Startup_Manager.svg">
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/StartupManager/stargazers">
+	                <img alt="Stars" src="https://img.shields.io/github/stars/JustArion/StartupManager?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/StartupManager/network/members">
+	                <img alt="Forks" src="https://img.shields.io/github/forks/JustArion/StartupManager?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	            </a>
+	        </td>
+	        <td>
+	        <img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/StartupManager/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	    </td>
+	</tr>
+	<!-- ToggleUIStickers -->
+	<tr>
+	    <td>
+	            <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+	                <img alt="C#" width="30" height="30" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png"/>
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/ToggleUIStickers">
+	                <img alt="Toggle UIS tickers" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Toggle_UI_Stickers.svg">
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/ToggleUIStickers/stargazers">
+	                <img alt="Stars" src="https://img.shields.io/github/stars/JustArion/ToggleUIStickers?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/ToggleUIStickers/network/members">
+	                <img alt="Forks" src="https://img.shields.io/github/forks/JustArion/ToggleUIStickers?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	            </a>
+	        </td>
+	        <td>
+	        <img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/ToggleUIStickers/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	    </td>
+	</tr>
+	<!-- WingStateSaver -->
+	<tr>
+	    <td>
+	            <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+	                <img alt="C#" width="30" height="30" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png"/>
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/WingStateSaver">
+	                <img alt="Wing State Saver" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Wing_State_Saver.svg">
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/WingStateSaver/stargazers">
+	                <img alt="Stars" src="https://img.shields.io/github/stars/JustArion/WingStateSaver?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/WingStateSaver/network/members">
+	                <img alt="Forks" src="https://img.shields.io/github/forks/JustArion/WingStateSaver?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	            </a>
+	        </td>
+	        <td>
+	        <img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/WingStateSaver/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	    </td>
+	</tr>
+	<!-- ResizePls -->
+	<tr>
+	    <td>
+	            <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+	                <img alt="C#" width="30" height="30" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png"/>
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/PostProcesResizePlssing">
+	                <img alt="Resize Pls" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Resize_Pls.svg">
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/ResizePls/stargazers">
+	                <img alt="Stars" src="https://img.shields.io/github/stars/JustArion/ResizePls?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/ResizePls/network/members">
+	                <img alt="Forks" src="https://img.shields.io/github/forks/JustArion/ResizePls?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	            </a>
+	        </td>
+	        <td>
+	        <img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/ResizePls/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	    </td>
+	</tr>
+	<!-- Win11TooltipFix -->
+	<tr>
+	    <td>
+	            <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+	                <img alt="C#" width="30" height="30" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png"/>
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/Win11_PopupHost_Fix">
+	                <img alt="Win11 Tooltip Fix" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Win11_Tooltip_Fix.svg">
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/Win11_PopupHost_Fix/stargazers">
+	                <img alt="Stars" src="https://img.shields.io/github/stars/JustArion/Win11_PopupHost_Fix?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/Win11_PopupHost_Fix/network/members">
+	                <img alt="Forks" src="https://img.shields.io/github/forks/JustArion/Win11_PopupHost_Fix?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	            </a>
+	        </td>
+	        <td>
+	        <img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/Win11_PopupHost_Fix/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	    </td>
+	</tr>
+	<!-- RainmeterWrapper -->
+	<tr>
+	    <td>
+	            <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+	                <img alt="C#" width="30" height="30" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png"/>
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/RainmeterWrapper">
+	                <img alt="Rainmeter Wrapper" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Rainmeter_Wrapper.svg">
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/RainmeterWrapper/stargazers">
+	                <img alt="Stars" src="https://img.shields.io/github/stars/JustArion/RainmeterWrapper?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://github.com/JustArion/RainmeterWrapper/network/members">
+	                <img alt="Forks" src="https://img.shields.io/github/forks/JustArion/RainmeterWrapper?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	            </a>
+	        </td>
+	        <td>
+	        <img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/RainmeterWrapper/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+	    </td>
+	</tr>
+</table>
