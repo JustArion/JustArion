@@ -240,7 +240,7 @@
 					</a>
 				</td>
 				<td>
-					<a href="https://github.com/JustArion/PostProcesResizePlssing">
+					<a href="https://github.com/JustArion/ResizePls">
 						<img alt="Resize Pls" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Resize_Pls.svg">
 					</a>
 				</td>
