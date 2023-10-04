@@ -359,3 +359,5 @@
 		<a href="https://en.wikipedia.org/wiki/Git"><img width="30px" src="https://cdn.discordapp.com/attachments/857319153031315456/945031661744189440/git-icon-logo-png-transparent.png"></a>
 	</kbd>
 </div>
+<br>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JustArion&theme=dark" alt=""/>
