@@ -3,11 +3,11 @@
 /**/
 
 /* Removes the Send a Gift option in chat */
-button[aria-label="Send a gift"]
+button[aria-label="Send a gift"],
 
 
 /* Removes the Discord Nitro menu in the friendslist */
-,li > div > a[href="/store"]
+li > div > a[href="/store"]
 
 
 /* Removes the Discord Birthday menu in the friendslist */
