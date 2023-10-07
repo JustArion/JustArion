@@ -3,31 +3,35 @@
 /**/
 
 /* Removes the Send a Gift option in chat */
-button[aria-label="Send a gift"],
+button[aria-label="Send a gift"]
 
 
 /* Removes the Discord Nitro menu in the friendslist */
-li > div > a[href="/store"],
+,li > div > a[href="/store"]
 
 
 /* Removes the Discord Birthday menu in the friendslist */
-li > div > a[href="/activities"],
+,li > div > a[href="/activities"]
 
 
 /* Removes your Discord Status in the Profile Preview */
-div[class*="customizationSection-"] div[class*="status-"],
+,div[class*="customizationSection-"] div[class*="status-"]
 
 
 /* Removes the Profile Picture Change icon when changing Profile Picture, covering your profile picture partially. */
-[class*="imageUploaderIcon-"],
+,[class*="imageUploaderIcon-"]
 
 
 /* Removes the notice from Verified headsets saying they "Can't detect your microphone but its intentional" */
-[class*="notice-"],
+,[class*="notice-"]
 
 
 /* Adblock for Avatar Decorations in the Previewer */
-[class*="premiumFeatureBannerBackground"]
+,[class*="premiumFeatureBannerBackground"]
+
+
+/* Adblock for the Profile Popout ( Like this avatar deocration? Get your own from the shop. )*/
+,div[class*="userProfileInner-"] > [class*="containerWrapper-"]
 
 
 
