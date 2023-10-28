@@ -50,7 +50,7 @@ li > div > a[href="/store"]
 
 
 /* Removes the "Start the conversation!" message on threads */
-,ol[class*="scrollerInner-"] > div[class*="box-"]
+,ol[class*="scrollerInner"] > div[class*="box"]
 
 {
   display: none!important;
