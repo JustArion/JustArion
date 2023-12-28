@@ -1,6 +1,6 @@
 <h3>📲 Contact Details</h3>
 <a href="https://discordapp.com/users/155396491853168640">
-	<img src="https://img.shields.io/static/v1?label=arion&message=%231223&colorA=1e1e28&colorB=c9cbff&style=for-the-badge"/>
+	<img src="https://img.shields.io/static/v1?label=Discord&message=_arion&colorA=1e1e28&colorB=c9cbff&style=for-the-badge"/>
 </a>
 <a href="https://youtu.be/K7XHy8nppf4?WhyWouldYouClickHere,YouAreAlreadyOnGithubBoomer!">
 	<img src="https://img.shields.io/static/v1?label=Github&message=JustArion&colorA=1e1e28&colorB=C0E4EC&style=for-the-badge"/>
