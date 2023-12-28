@@ -11,7 +11,7 @@
 <a href="https://github.com/JustArion/">
 	<img src="https://komarev.com/ghpvc/?username=JustArion&style=for-the-badge&color=1e1e28"/>
 </a>
-<kbd>Hey, arion here! I'm an avid enjoyer of C# Feel free to contact me on the above platforms.</kbd>
+<kbd>Hey, arion here! I'm an avid enjoyer of C#. Feel free to contact me on the above platforms.</kbd>
 <img align="right" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png" /><br><br>
 
 <div>
