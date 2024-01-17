@@ -55,7 +55,7 @@
 					</a>
 				</td>
 				<td>
-					<a href="https://github.com/JustArion/MicSensitivity">
+					<a href="https://github.com/JustArion/PostProcessing">
 						<img alt="Mic Sensitivity" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Mic_Sensitivity.svg">
 					</a>
 				</td>
@@ -81,7 +81,7 @@
 					</a>
 				</td>
 				<td>
-					<a href="https://github.com/JustArion/ToggleMicIcon">
+					<a href="https://github.com/JustArion/PostProcessing">
 						<img alt="Toggle Mic Icon" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Toggle_Mic_Icon.svg">
 					</a>
 				</td>
@@ -123,32 +123,6 @@
 				</td>
 				<td>
 				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/GoZippy/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</td>
-		</tr>
-		<!-- StartupManager -->
-		<tr>
-			<td>
-					<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-						<img alt="C#" width="30" height="30" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png"/>
-					</a>
-				</td>
-				<td>
-					<a href="https://github.com/JustArion/StartupManager">
-						<img alt="Startup Manager" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Startup_Manager.svg">
-					</a>
-				</td>
-				<td>
-					<a href="https://github.com/JustArion/StartupManager/stargazers">
-						<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/StartupManager?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-					</a>
-				</td>
-				<td>
-					<a href="https://github.com/JustArion/StartupManager/network/members">
-						<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/StartupManager?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-					</a>
-				</td>
-				<td>
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/StartupManager/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</td>
 		</tr>
 		<!-- ConsoleEncodingFix -->
@@ -237,7 +211,7 @@
 					</a>
 				</td>
 				<td>
-					<a href="https://github.com/JustArion/ResizePls">
+					<a href="https://github.com/JustArion/PostProcesResizePlssing">
 						<img alt="Resize Pls" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Resize_Pls.svg">
 					</a>
 				</td>
@@ -279,6 +253,32 @@
 				</td>
 				<td>
 				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/Win11_PopupHost_Fix/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+			</td>
+		</tr>
+		<!-- DeathMustDieMods -->
+		<tr>
+			<td>
+					<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+						<img alt="C#" width="30" height="30" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png"/>
+					</a>
+				</td>
+				<td>
+					<a href="https://github.com/JustArion/DeathMustDieMods">
+						<img alt="Death Must Die Mods" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Death_Must_Die_Mods.svg">
+					</a>
+				</td>
+				<td>
+					<a href="https://github.com/JustArion/DeathMustDieMods/stargazers">
+						<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/DeathMustDieMods?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+					</a>
+				</td>
+				<td>
+					<a href="https://github.com/JustArion/DeathMustDieMods/network/members">
+						<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/DeathMustDieMods?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+					</a>
+				</td>
+				<td>
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/DeathMustDieMods/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</td>
 		</tr>
 		<!-- RainmeterWrapper -->
