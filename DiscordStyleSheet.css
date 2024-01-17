@@ -1,0 +1,57 @@
+/*
+  Comment out any option you don't want to use with /* option */
+/**/
+
+/* Removes the Send a Gift option in chat */
+button[aria-label="Send a gift"],
+
+
+/* Removes the Discord Nitro menu in the friendslist */
+li > div > a[href="/store"]
+
+
+/* Removes the Discord Birthday menu in the friendslist */
+,li > div > a[href="/activities"]
+
+
+/* Removes the Profile Effect shop in the friendslist */
+,li > div > a[href="/shop"]
+
+
+/* Removes your Discord Status in the Profile Preview */
+,div[class*="customizationSection"] div[class*="status"]
+
+
+/* Removes the Profile Picture Change icon when changing Profile Picture, covering your profile picture partially. */
+,[class*="imageUploaderIcon"]
+
+
+/* Removes the notice from Verified headsets saying they "Can't detect your microphone but its intentional" */
+,[class*="notice"]
+
+
+/* Adblock for Avatar Decorations in the Previewer */
+,[class*="premiumFeatureBannerBackground"]
+
+
+/* Adblock for the Profile Popout ( Like this avatar deocration? Get your own from the shop. )*/
+,div[class*="userProfileInner"] > [class*="containerWrapper"]
+
+
+/* Removes the profile effect advert on the Profiles section, (Possibly too strict and will remove all new nitro sections) */
+,div[class*="profileCustomizationSection"] > div > div > div[class*="showBorder"]
+
+/* Removes Nitro Profile Picture Decorations  */
+
+,svg[class*="avatarDecoration"], img[class*="avatarDecoration"]
+
+/* Removes Nitro Profile Effects from all profiles */
+,div[class*="profileEffects"]
+
+
+/* Removes the "Start the conversation!" message on threads */
+,ol[class*="scrollerInner"] > div[class*="box"]
+
+{
+  display: none!important;
+}
