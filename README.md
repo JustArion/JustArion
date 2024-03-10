@@ -350,10 +350,10 @@
 		<br>
 		<a href="https://code.visualstudio.com/"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
 		<a href="https://visualstudio.microsoft.com/"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></a>
-		<a href="https://www.jetbrains.com/rider/"><img width="30px" src="https://cdn.discordapp.com/attachments/857319153031315456/945027101000626236/svgexport-13.svg" /></a>
-		<a href="https://www.jetbrains.com/go/"><img width="30px" src="https://cdn.discordapp.com/attachments/857319153031315456/945028868853596240/svgexport-9.svg"></a>
-		<a href="https://www.jetbrains.com/pycharm/"><img width="30px" src="https://cdn.discordapp.com/attachments/857319153031315456/945029275269087342/svgexport-12.svg"></a>
-		<a href="https://en.wikipedia.org/wiki/Git"><img width="30px" src="https://cdn.discordapp.com/attachments/857319153031315456/945031661744189440/git-icon-logo-png-transparent.png"></a>
+		<a href="https://www.jetbrains.com/rider/"><img width="30px" src="/Assets/RepoImages/svgexport-13.svg" /></a>
+		<a href="https://www.jetbrains.com/go/"><img width="30px" src="/Assets/RepoImages/svgexport-9.svg"></a>
+		<a href="https://www.jetbrains.com/pycharm/"><img width="30px" src="/Assets/RepoImages/svgexport-12.svg"></a>
+		<a href="https://en.wikipedia.org/wiki/Git"><img width="30px" src="/Assets/RepoImages/Git-Icon.png"></a>
 	</kbd>
 </div>
 <br>
