@@ -322,7 +322,7 @@
 		<br>
 		<br>
 		<a href="https://www.nuget.org/"><img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/NuGet_project_logo.svg/64px-NuGet_project_logo.svg.png" /></a>
-		<a href="https://www.tutorialsteacher.com/core/dotnet-core"><img height="30px" src="https://cdn.discordapp.com/attachments/857319153031315456/945022087196725298/dotnet-logo.png" /></a>
+		<a href="https://www.tutorialsteacher.com/core/dotnet-core"><img height="30px" src="/Assets/RepoImages/dotnet-logo.png" /></a>
 		<a href="https://en.wikipedia.org/wiki/.NET_Framework"><img height="30px" src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" /></a>
 	</kbd>
 	<br>
