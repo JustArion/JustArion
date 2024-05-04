@@ -1,3 +1,4 @@
+/* Generally Adblock / Annoyance-block for Discord */
 /*
   Comment out any option you don't want to use with /* option */
 /**/
@@ -7,51 +8,80 @@ button[aria-label="Send a gift"],
 
 
 /* Removes the Discord Nitro menu in the friendslist */
-li > div > a[href="/store"]
+li > div > a[href="/store"],
 
 
 /* Removes the Discord Birthday menu in the friendslist */
-,li > div > a[href="/activities"]
+li > div > a[href="/activities"],
 
 
 /* Removes the Profile Effect shop in the friendslist */
-,li > div > a[href="/shop"]
-
+li > div > a[href="/shop"],
 
 /* Removes your Discord Status in the Profile Preview */
-,div[class*="customizationSection"] div[class*="status"]
-
+div[class*="customizationSection"] div[class*="status"]
 
 /* Removes the Profile Picture Change icon when changing Profile Picture, covering your profile picture partially. */
-,[class*="imageUploaderIcon"]
+[class*="imageUploaderIcon"],
 
 
 /* Removes the notice from Verified headsets saying they "Can't detect your microphone but its intentional" */
-,[class*="notice"]
+/* ,[class*="notice"] */
 
 
 /* Adblock for Avatar Decorations in the Previewer */
-,[class*="premiumFeatureBannerBackground"]
+[class*="premiumFeatureBannerBackground"],
 
 
 /* Adblock for the Profile Popout ( Like this avatar deocration? Get your own from the shop. )*/
-,div[class*="userProfileInner"] > [class*="containerWrapper"]
+div[class*="userProfileInner"] > [class*="containerWrapper"],
 
 
 /* Removes the profile effect advert on the Profiles section, (Possibly too strict and will remove all new nitro sections) */
-,div[class*="profileCustomizationSection"] > div > div > div[class*="showBorder"]
+div[class*="profileCustomizationSection"] > div > div > div[class*="showBorder"],
 
 /* Removes Nitro Profile Picture Decorations  */
 
-,svg[class*="avatarDecoration"], img[class*="avatarDecoration"]
+svg[class*="avatarDecoration"], img[class*="avatarDecoration"],
+div[class*="premiumIconWrapper"] > div[class*="textBadge"],
 
 /* Removes Nitro Profile Effects from all profiles */
-,div[class*="profileEffects"]
+div[class*="profileEffects"],
 
 
 /* Removes the "Start the conversation!" message on threads */
-,ol[class*="scrollerInner"] > div[class*="box"]
+ol[class*="scrollerInner"] > div[class*="box"],
 
+/* Corsair Official device is muted notification */
+div[class*="base"] > div[class*="notice"],
+
+/* Removes the "What's this?" on Spotify Listen Along */
+div[class*="listeningAlong"] > div[class*="icons"] > button[aria-label="What's this?"],
+
+/* Removes shop promotions */
+div[id*="popout"] > div[class*="animatorRight"] > div > div[class*="contentNoArt"],
+div[class*="shopForAllBackgroundImage"],
+
+/* Removes the Nitro icon on stream quality indicators */
+svg[class*="premiumStreamIcon"],
+
+/* Removes the Notification reminder dot for Starting an Activity */
+button[aria-label="Start an Activity"] > div[class*="contents"] > span[class*="dot"],
+
+/* Removes Quest adverts in the Profile settings page */
+div[class*="contentColumn"] > div[class*="container"][style*="background-image: url"],
+
+/* Removes the option to change avatar decorations in the Profiles menu */
+#user-settings-change-avatar-change-avatar-decoration,
+
+div[id="Don't remove me"]
 {
   display: none!important;
 }
+
+
+/* Moves the loading gif when images are loading and focused, removes the dark translucent background when loading */
+div[class*="imagePlaceholderOverlay"] {  display: none!important; }
+span[class*="placeholderLoadingSpinner"] { background-color: transparent!important; }
+span[class*="placeholderLoadingSpinner"] > span[class*="wanderingCubes"] { top: -45%; }
+/* --- */
