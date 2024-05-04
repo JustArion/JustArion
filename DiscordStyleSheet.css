@@ -75,7 +75,7 @@ div[class*="contentColumn"] > div[class*="container"][style*="background-image: 
 #user-settings-change-avatar-change-avatar-decoration,
 
 /* Removes the quest advert when popping out someone's profile who's playing a game w a quest */
-div[id*="popout"]:has( div[class*="wrapper"] > div[class*="container"] ),
+div[id*="popout"]:has( div[class*="wrapper"] > div[class*="container"] > div[class*="top"] + button ),
 
 div[id="Don't remove me"]
 {
