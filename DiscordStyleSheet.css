@@ -74,6 +74,9 @@ div[class*="contentColumn"] > div[class*="container"][style*="background-image: 
 /* Removes the option to change avatar decorations in the Profiles menu */
 #user-settings-change-avatar-change-avatar-decoration,
 
+/* Removes the quest advert when popping out someone's profile who's playing a game w a quest */
+div[id*="popout"]:has( div[class*="wrapper"] > div[class*="container"] ),
+
 div[id="Don't remove me"]
 {
   display: none!important;
