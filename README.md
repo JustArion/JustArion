@@ -56,7 +56,7 @@
 					</a>
 				</td>
 				<td>
-					<a href="https://github.com/JustArion/PostProcessing">
+					<a href="https://github.com/JustArion/MicSensitivity">
 						<img alt="Mic Sensitivity" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Mic_Sensitivity.svg">
 					</a>
 				</td>
@@ -82,7 +82,7 @@
 					</a>
 				</td>
 				<td>
-					<a href="https://github.com/JustArion/PostProcessing">
+					<a href="https://github.com/JustArion/ToggleMicIcon">
 						<img alt="Toggle Mic Icon" src="https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Toggle_Mic_Icon.svg">
 					</a>
 				</td>
