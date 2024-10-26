@@ -77,6 +77,5 @@ Gen-Row -DisplayName "Resize Pls"              -Repo "ResizePls"                
 Gen-Row -DisplayName "Win11 Tooltip Fix"       -Repo "Win11_Tooltip_Fix"        -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
 Gen-Row -DisplayName "Wing State Saver"        -Repo "WingStateSaver"           -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
 Gen-Row -DisplayName "PlayGames Rich Presence" -Repo "PlayGames_RichPresence"   -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
-Gen-Row -DisplayName "Rainmeter Wrapper"       -Repo "RainmeterWrapper"         -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
 
 cd $currDir
