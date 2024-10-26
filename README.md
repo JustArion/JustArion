@@ -331,34 +331,6 @@
 			</a>
 		</td>
 	</tr>
-	<!-- RainmeterWrapper -->
-	<tr>
-		<td>
-			<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-				<img alt="C#" width="30" height="30" src="./Assets/Languages/CSharp.png"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/RainmeterWrapper/">
-				<img alt="Rainmeter Wrapper" src="./Assets/RepoImages/RainmeterWrapper.svg">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/RainmeterWrapper/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/RainmeterWrapper?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/RainmeterWrapper/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/RainmeterWrapper?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/RainmeterWrapper/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/RainmeterWrapper/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</a>
-		</td>
-	</tr>
 <!-- End Paste Zone -->
 	</table>
 	<h3 align="left">🛠 Tech Stack</h3>
