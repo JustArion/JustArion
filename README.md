@@ -22,6 +22,7 @@
 			<th>Forks</th>
 			<th>Downloads</th>
 		</tr>
+<!-- Paste Zone -->
 	<!-- PostProcessing -->
 	<tr>
 		<td>
@@ -30,7 +31,7 @@
 			</a>
 		</td>
 		<td>
-			<a href="">
+			<a href="https://github.com/JustArion/PostProcessing/">
 				<img alt="Post Processing+" src="./Assets/RepoImages/PostProcessing.svg">
 			</a>
 		</td>
@@ -58,7 +59,7 @@
 			</a>
 		</td>
 		<td>
-			<a href="">
+			<a href="https://github.com/JustArion/MicSensitivity/">
 				<img alt="Mic Sensitivity" src="./Assets/RepoImages/MicSensitivity.svg">
 			</a>
 		</td>
@@ -86,7 +87,7 @@
 			</a>
 		</td>
 		<td>
-			<a href="">
+			<a href="https://github.com/JustArion/ToggleMicIcon/">
 				<img alt="Toggle Mic Icon" src="./Assets/RepoImages/ToggleMicIcon.svg">
 			</a>
 		</td>
@@ -114,7 +115,7 @@
 			</a>
 		</td>
 		<td>
-			<a href="">
+			<a href="https://github.com/JustArion/GoZippy/">
 				<img alt="Go Zippy" src="./Assets/RepoImages/GoZippy.svg">
 			</a>
 		</td>
@@ -142,7 +143,7 @@
 			</a>
 		</td>
 		<td>
-			<a href="">
+			<a href="https://github.com/JustArion/DeathMustDieMods/">
 				<img alt="Death Must Die Mods" src="./Assets/RepoImages/DeathMustDieMods.svg">
 			</a>
 		</td>
@@ -170,7 +171,7 @@
 			</a>
 		</td>
 		<td>
-			<a href="">
+			<a href="https://github.com/JustArion/ConsoleEncodingFix/">
 				<img alt="Console Encoding Fix" src="./Assets/RepoImages/ConsoleEncodingFix.svg">
 			</a>
 		</td>
@@ -198,7 +199,7 @@
 			</a>
 		</td>
 		<td>
-			<a href="">
+			<a href="https://github.com/JustArion/ToggleUIStickers/">
 				<img alt="Toggle UI Stickers" src="./Assets/RepoImages/ToggleUIStickers.svg">
 			</a>
 		</td>
@@ -226,7 +227,7 @@
 			</a>
 		</td>
 		<td>
-			<a href="">
+			<a href="https://github.com/JustArion/ResizePls/">
 				<img alt="Resize Pls" src="./Assets/RepoImages/ResizePls.svg">
 			</a>
 		</td>
@@ -254,7 +255,7 @@
 			</a>
 		</td>
 		<td>
-			<a href="">
+			<a href="https://github.com/JustArion/Win11_Tooltip_Fix/">
 				<img alt="Win11 Tooltip Fix" src="./Assets/RepoImages/Win11_Tooltip_Fix.svg">
 			</a>
 		</td>
@@ -282,7 +283,7 @@
 			</a>
 		</td>
 		<td>
-			<a href="">
+			<a href="https://github.com/JustArion/WingStateSaver/">
 				<img alt="Wing State Saver" src="./Assets/RepoImages/WingStateSaver.svg">
 			</a>
 		</td>
@@ -310,7 +311,7 @@
 			</a>
 		</td>
 		<td>
-			<a href="">
+			<a href="https://github.com/JustArion/PlayGames_RichPresence/">
 				<img alt="PlayGames Rich Presence" src="./Assets/RepoImages/PlayGames_RichPresence.svg">
 			</a>
 		</td>
@@ -338,7 +339,7 @@
 			</a>
 		</td>
 		<td>
-			<a href="">
+			<a href="https://github.com/JustArion/RainmeterWrapper/">
 				<img alt="Rainmeter Wrapper" src="./Assets/RepoImages/RainmeterWrapper.svg">
 			</a>
 		</td>
@@ -358,6 +359,7 @@
 			</a>
 		</td>
 	</tr>
+<!-- End Paste Zone -->
 	</table>
 	<h3 align="left">🛠 Tech Stack</h3>
 	<kbd align="left">

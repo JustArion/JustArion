@@ -38,7 +38,7 @@ function Gen-Row
         </a>
     </td>
     <td>
-        <a href="{REPO_LINK}">
+        <a href="https://github.com/{USERNAME}/{REPO_NAME}/">
             <img alt="{FRIENDLY_REPO_NAME}" src="{REPO_IMAGE_LINK}">
         </a>
     </td>
@@ -59,7 +59,7 @@ function Gen-Row
     </td>
 </tr>
 "@
-    $retVal = $retVal.Replace("{NAME}", $Repo).Replace("{LANGUAGE}", $Language).Replace("{LANGUAGE_LINK}", $LanguageLink).Replace("{LANGUAGE_IMAGE_LINK}", $LanguageImageLink).Replace("{REPO_LINK}", $RepoLink).Replace("{REPO_NAME}", $Repo).Replace("{FRIENDLY_REPO_NAME}", $DisplayName).Replace("{REPO_IMAGE_LINK}", $RepoImageLink).Replace("{USERNAME}", $username).Replace("{LANGUAGE_WIDTH}", $LanguageWidth)
+    $retVal = $retVal.Replace("{NAME}", $Repo).Replace("{LANGUAGE}", $Language).Replace("{LANGUAGE_LINK}", $LanguageLink).Replace("{LANGUAGE_IMAGE_LINK}", $LanguageImageLink).Replace("{REPO_NAME}", $Repo).Replace("{FRIENDLY_REPO_NAME}", $DisplayName).Replace("{REPO_IMAGE_LINK}", $RepoImageLink).Replace("{USERNAME}", $username).Replace("{LANGUAGE_WIDTH}", $LanguageWidth)
 
     iwr "https://img.shields.io/badge/$DisplayName-1e1e28?style=for-the-badge" -OutFile ".\RepoImages\$Repo.svg"
 
