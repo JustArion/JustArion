@@ -1,21 +1,82 @@
-Gen-RowImage -Name "PostProcessing+" -Language "C#" -LanguageLink "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" -LanguageImageLink "https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png" -RepoLink "https://github.com/JustArion/PostProcessing" -RepoName "PostProcessing" -FriendlyRepoName "Post Processing+" -UserName "JustArion" -RepoImageLink "https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Post_Processing.svg"
+$ErrorActionPreference = 'Stop'
 
-Gen-RowImage -Name "MicSensitivity" -Language "C#" -LanguageLink "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" -LanguageImageLink "https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png" -RepoLink "https://github.com/JustArion/PostProcessing" -RepoName "MicSensitivity" -FriendlyRepoName "Mic Sensitivity" -UserName "JustArion" -RepoImageLink "https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Mic_Sensitivity.svg"
+$currDir = pwd;
+$goLang = "https://en.wikipedia.org/wiki/Go_(programming_language)"
+$goImg = "./Assets/Languages/Go.png"
+$csLang = "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"
+$csImg = "./Assets/Languages/CSharp.png"
+$username = "JustArion"
+cd $PSScriptRoot
 
-Gen-RowImage -Name "ToggleMicIcon" -Language "C#" -LanguageLink "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" -LanguageImageLink "https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png" -RepoLink "https://github.com/JustArion/PostProcessing" -RepoName "ToggleMicIcon" -FriendlyRepoName "Toggle Mic Icon" -UserName "JustArion" -RepoImageLink "https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Toggle_Mic_Icon.svg"
+function Gen-Row
+{
+    [CmdletBinding()]
+    param
+    (
+        [Parameter(Mandatory=$true)]
+        [string]$Repo,
+        [Parameter(Mandatory=$true)]
+        [string]$Language,
+        [Parameter(Mandatory=$false)]
+        [string]$LanguageWidth = 30,
+        [Parameter(Mandatory=$true)]
+        [string]$LanguageLink,
+        [Parameter(Mandatory=$true)]
+        [string]$LanguageImageLink,
+        [Parameter(Mandatory=$true)]
+        [string]$DisplayName
+    )
 
-Gen-RowImage -Name "GoZippy" -Language "GO" -LanguageLink "https://en.wikipedia.org/wiki/Go_(programming_language)" -LanguageImageLink "https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/Go.png" -RepoLink "https://github.com/JustArion/GoZippy" -RepoName "GoZippy" -FriendlyRepoName "Go Zippy" -UserName "JustArion" -RepoImageLink "https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Go_Zippy.svg"
+    $RepoImageLink = "./Assets/RepoImages/$Repo.svg"
+    $retVal = 
+@"
+<!-- {NAME} -->
+<tr>
+    <td>
+        <a href="{LANGUAGE_LINK}">
+            <img alt="{LANGUAGE}" width="{LANGUAGE_WIDTH}" height="30" src="{LANGUAGE_IMAGE_LINK}"/>
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/{USERNAME}/{REPO_NAME}/">
+            <img alt="{FRIENDLY_REPO_NAME}" src="{REPO_IMAGE_LINK}">
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/{USERNAME}/{REPO_NAME}/stargazers">
+            <img alt="Stars" src="https://img.shields.io/github/stars/{USERNAME}/{REPO_NAME}?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/{USERNAME}/{REPO_NAME}/network/members">
+            <img alt="Forks" src="https://img.shields.io/github/forks/{USERNAME}/{REPO_NAME}?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/{USERNAME}/{REPO_NAME}/release">
+            <img alt="Downloads" src="https://img.shields.io/github/downloads/{USERNAME}/{REPO_NAME}/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+        </a>
+    </td>
+</tr>
+"@
+    $retVal = $retVal.Replace("{NAME}", $Repo).Replace("{LANGUAGE}", $Language).Replace("{LANGUAGE_LINK}", $LanguageLink).Replace("{LANGUAGE_IMAGE_LINK}", $LanguageImageLink).Replace("{REPO_NAME}", $Repo).Replace("{FRIENDLY_REPO_NAME}", $DisplayName).Replace("{REPO_IMAGE_LINK}", $RepoImageLink).Replace("{USERNAME}", $username).Replace("{LANGUAGE_WIDTH}", $LanguageWidth)
 
-Gen-RowImage -Name "ConsoleEncodingFix" -Language "C#" -LanguageLink "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" -LanguageImageLink "https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png" -RepoLink "https://github.com/JustArion/ConsoleEncodingFix" -RepoName "ConsoleEncodingFix" -FriendlyRepoName "Console Encoding Fix" -UserName "JustArion" -RepoImageLink "https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Console_Encoding_Fix.svg"
+    iwr "https://img.shields.io/badge/$DisplayName-1e1e28?style=for-the-badge" -OutFile ".\RepoImages\$Repo.svg"
 
-Gen-RowImage -Name "ToggleUIStickers" -Language "C#" -LanguageLink "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" -LanguageImageLink "https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png" -RepoLink "https://github.com/JustArion/ToggleUIStickers" -RepoName "ToggleUIStickers" -FriendlyRepoName "Toggle UIS tickers" -UserName "JustArion" -RepoImageLink "https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Toggle_UI_Stickers.svg"
+    return $retVal
+}
 
-Gen-RowImage -Name "WingStateSaver" -Language "C#" -LanguageLink "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" -LanguageImageLink "https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png" -RepoLink "https://github.com/JustArion/WingStateSaver" -RepoName "WingStateSaver" -FriendlyRepoName "Wing State Saver" -UserName "JustArion" -RepoImageLink "https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Wing_State_Saver.svg"
+Gen-Row -DisplayName "Post Processing+"        -Repo "PostProcessing"           -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
+Gen-Row -DisplayName "Mic Sensitivity"         -Repo "MicSensitivity"           -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
+Gen-Row -DisplayName "Toggle Mic Icon"         -Repo "ToggleMicIcon"            -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
+Gen-Row -DisplayName "Go Zippy"                -Repo "GoZippy"                  -Language "GO" -LanguageLink $goLang -LanguageImageLink $goImg
+Gen-Row -DisplayName "Death Must Die Mods"     -Repo "DeathMustDieMods"         -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
+Gen-Row -DisplayName "Console Encoding Fix"    -Repo "ConsoleEncodingFix"       -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
+Gen-Row -DisplayName "Toggle UI Stickers"      -Repo "ToggleUIStickers"         -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
+Gen-Row -DisplayName "Resize Pls"              -Repo "ResizePls"                -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
+Gen-Row -DisplayName "Win11 Tooltip Fix"       -Repo "Win11_Tooltip_Fix"        -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
+Gen-Row -DisplayName "Wing State Saver"        -Repo "WingStateSaver"           -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
+Gen-Row -DisplayName "PlayGames Rich Presence" -Repo "PlayGames_RichPresence"   -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
+Gen-Row -DisplayName "Rainmeter Wrapper"       -Repo "RainmeterWrapper"         -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
 
-Gen-RowImage -Name "ResizePls" -Language "C#" -LanguageLink "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" -LanguageImageLink "https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png" -RepoLink "https://github.com/JustArion/PostProcesResizePlssing" -RepoName "ResizePls" -FriendlyRepoName "Resize Pls" -UserName "JustArion" -RepoImageLink "https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Resize_Pls.svg"
-
-Gen-RowImage -Name "Win11TooltipFix" -Language "C#" -LanguageLink "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" -LanguageImageLink "https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png" -RepoLink "https://github.com/JustArion/Win11_PopupHost_Fix" -RepoName "Win11_PopupHost_Fix" -FriendlyRepoName "Win11 Tooltip Fix" -UserName "JustArion" -RepoImageLink "https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Win11_Tooltip_Fix.svg"
-
-Gen-RowImage -Name "DeathMustDieMods" -Language "C#" -LanguageLink "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" -LanguageImageLink "https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png" -RepoLink "https://github.com/JustArion/DeathMustDieMods" -RepoName "DeathMustDieMods" -FriendlyRepoName "Death Must Die Mods" -UserName "JustArion" -RepoImageLink "https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Death_Must_Die_Mods.svg"
-
-Gen-RowImage -Name "RainmeterWrapper" -Language "C#" -LanguageLink "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" -LanguageImageLink "https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/Languages/CSharp.png" -RepoLink "https://github.com/JustArion/RainmeterWrapper" -RepoName "RainmeterWrapper" -FriendlyRepoName "Rainmeter Wrapper" -UserName "JustArion" -RepoImageLink "https://raw.githubusercontent.com/JustArion/JustArion/master/Assets/RepoImages/Rainmeter_Wrapper.svg"
+cd $currDir
