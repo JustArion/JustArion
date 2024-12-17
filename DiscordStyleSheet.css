@@ -1,4 +1,3 @@
-/* Generally Adblock / Annoyance-block for Discord */
 /*
   Comment out any option you don't want to use with /* option */
 /**/
@@ -6,6 +5,8 @@
 /* Removes the Send a Gift option in chat */
 button[aria-label="Send a gift"],
 
+/* Remvoes the "Play Again" button for previous activities */
+ul > div:has(h2 > div > span),
 
 /* Removes the Discord Nitro menu in the friendslist */
 li > div > a[href="/store"],
