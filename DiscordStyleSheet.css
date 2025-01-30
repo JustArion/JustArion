@@ -1,76 +1,104 @@
-/*
-  Comment out any option you don't want to use with /* option */
-/**/
+/* Comment out any option you don't want to use with /* option */
+/* To comment out something press Ctrl + (/ or ?) */
 
-/* Removes the Send a Gift option in chat */
+/* ----------------------------------------------------------- */
+/*                           Chat                              */
+/* ----------------------------------------------------------- */
+
+/* Send a Gift option in chat */
 button[aria-label="Send a gift"],
 
+/* Button to open the Apps menu */
+button[aria-label="Apps"],
 
-/* Removes the Discord Nitro menu in the friendslist */
-li > div > a[href="/store"],
+/* ----------------------------------------------------------- */
+/*                        Apps Menu                            */
+/* ----------------------------------------------------------- */
 
+/* "Promoted Games" section in the Apps menu */
+section[aria-label="Application Launcher"] div:has(> div[class*="sectionTwoColumnContentContainer"]),
 
-/* Removes the Discord Birthday menu in the friends list */
-li > div > a[href="/activities"],
+/* ----------------------------------------------------------- */
+/*                      Direct Messages                        */
+/* ----------------------------------------------------------- */
 
+/* Discord Nitro button */
+ul[aria-label="Direct Messages"] li:has(a[href="/store"]),
 
-/* Removes the Profile Effect shop in the friends list */
-li > div > a[href="/shop"],
+/* Discord's Birthday button (Not your birthday :c )*/
+ul[aria-label="Direct Messages"] li:has(a[href = "/activities"]),
 
-/* Removes the "Play Again list item in the friends list */
-div[class *= "container"]:has(> h2[class *= "headerContainer"] > div[class *= "textContainer"] > span[class *= "headerText"]),
+/* Profile Effect shop */
+ul[aria-label="Direct Messages"] li:has(a[href = "/shop"]),
 
-/* Removes your Discord Status in the Profile Preview */
-div[class *= "customizationSection"] div[class *= "status"],
+/* "Play Again" Activity list*/ 
+/* (TODO: Make this more resilient)  */
+ul[aria-label="Direct Messages"] div[class*="container"]:has(> h2[class*="headerContainer"] > div[class*="textContainer"] > span[class*="headerText"]),
 
-/* Removes the Profile Picture Change icon when changing Profile Picture, covering your profile picture partially. */
-[class *= "imageUploaderIcon"],
+/* ----------------------------------------------------------- */
+/*                Profile Customization Tab                    */
+/* ----------------------------------------------------------- */
 
+/* "Give your profile a fresh look" shop upsell */
+div[id="profile-customization-tab"] div[class*="container"]:has(div[class*="artContainer"] + div[class*="mainColumn"] + button[class*="ctaButton"]),
 
-/* Removes the notice from Verified headsets saying they "Can't detect your microphone but its intentional" */
-/* ,[class *= "notice"] */
+/* Your Discord Status Icon (Online, Idle, Do Not Disturb, etc) */
+div[id="profile-customization-tab"] div[class*="avatar"] circle,
+div[id="profile-customization-tab"] div[class*="avatar"] rect,
 
+/* ----------------------------------------------------------- */
+div[id = "Don't remove me"]
+{
+  display: none!important;
+}
+/* ----------------------------------------------------------- */
+div[id="profile-customization-tab"] div[class*="avatar"] foreignObject
+{
+  mask: radial-gradient(circle, white 70%, transparent 71%);
+}
 
-/* Adblock for Avatar Decorations in the Previewer */
-[class *= "premiumFeatureBannerBackground"],
+/* ----------------------------------------------------------- */
+/*                      User Profiles                          */
+/* ----------------------------------------------------------- */
 
+/* Profile Picture Decoration */
+/* Both do the job, but 2 just in-case ;) */
+foreignObject[mask="url(#svg-mask-avatar-decoration-status-round-120)"],
+svg[class*="avatarDecoration"],
 
-/* Adblock for the Profile Popout ( Like this avatar deocration? Get your own from the shop. )*/
-div[class *= "userProfileInner"] > [class *= "containerWrapper"],
+/* Profile Effects */
+div[class*="profileEffects"],
 
+/* "Like this avatar deocration? Get your own from the shop." upsell */
+/* Unknown if still works, upsell might have been an experiment */
+div[class*="userProfileInner"] > [class*="containerWrapper"],
 
-/* Removes the profile effect advert on the Profiles section, (Possibly too strict and will remove all new nitro sections) */
-div[class *= "profileCustomizationSection"] > div > div > div[class *= "showBorder"],
-
-/* Removes Nitro Profile Picture Decorations  */
-
-svg[class *= "avatarDecoration"], img[class *= "avatarDecoration"],
-div[class *= "premiumIconWrapper"] > div[class *= "textBadge"],
-
-/* Removes Nitro Profile Effects from all profiles */
-div[class *= "profileEffects"],
+/* ----------------------------------------------------------- */
+/*             Possibly Broken / Can't Test                    */
+/* ----------------------------------------------------------- */
 
 /* Removes the "Start the conversation!" message on threads */
-ol[class *= "scrollerInner"] > div[class *= "box"],
-
-/* Corsair Official device is muted notification */
-/* div[class *= "base"] > div[class *= "notice"], */
+ol[class*="scrollerInner"] > div[class*="box"],
 
 /* Removes the "What's this?" on Spotify Listen Along */
-div[class *= "listeningAlong"] > div[class *= "icons"] > button[aria-label="What's this?"],
+div[class*="listeningAlong"] > div[class*="icons"] > button[aria-label="What's this?"],
 
 /* Removes shop promotions */
-div[id*="popout"] > div[class *= "animatorRight"] > div > div[class *= "contentNoArt"],
-div[class *= "shopForAllBackgroundImage"],
+div[id*="popout"] > div[class*="animatorRight"] > div > div[class*="contentNoArt"],
+div[class*="shopForAllBackgroundImage"],
 
+/* ----------------------------------------------------------- */
 div[id="Don't remove me"]
 {
   display: none!important;
 }
+/* ----------------------------------------------------------- */
+/*                            Extra                            */
+/* ----------------------------------------------------------- */
 
 
 /* Moves the loading gif when images are loading and focused, removes the dark translucent background when loading */
-div[class *= "imagePlaceholderOverlay"] {  display: none!important; }
-span[class *= "placeholderLoadingSpinner"] { background-color: transparent!important; }
-span[class *= "placeholderLoadingSpinner"] > span[class *= "wanderingCubes"] { top: -45%; }
-/* --- */
+div[class*="imagePlaceholderOverlay"] {  display: none!important; }
+span[class*="placeholderLoadingSpinner"] { background-color: transparent!important; }
+span[class*="placeholderLoadingSpinner"] > span[class*="wanderingCubes"] { top: -45%; }
+/* ----------------------------------------------------------- */
