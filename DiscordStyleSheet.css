@@ -2,6 +2,12 @@
 /* To comment out something press Ctrl + (/ or ?) */
 
 /* ----------------------------------------------------------- */
+/*                        Upsells                              */
+/* ----------------------------------------------------------- */
+
+[class*="upsellContainer"],
+
+/* ----------------------------------------------------------- */
 /*                           Chat                              */
 /* ----------------------------------------------------------- */
 
@@ -10,6 +16,9 @@ button[aria-label="Send a gift"],
 
 /* Button to open the Apps menu */
 button[aria-label="Apps"],
+
+/* Avatar Decoration in chat */
+img[class*="avatarDecoration"],
 
 /* ----------------------------------------------------------- */
 /*                        Apps Menu                            */
@@ -36,7 +45,7 @@ ul[aria-label="Direct Messages"] li:has(a[href = "/shop"]),
 ul[aria-label="Direct Messages"] div[class*="container"]:has(> h2[class*="headerContainer"] > div[class*="textContainer"] > span[class*="headerText"]),
 
 /* ----------------------------------------------------------- */
-/*                 User Profile Modal                    */
+/*                 Large View Profile Modal                    */
 /* ----------------------------------------------------------- */
 
 div[aria-label="User Profile Modal"] button[aria-label="Shop"],
@@ -103,7 +112,6 @@ div[id="Don't remove me"]
 /* ----------------------------------------------------------- */
 /*                            Extra                            */
 /* ----------------------------------------------------------- */
-
 
 /* Moves the loading gif when images are loading and focused, removes the dark translucent background when loading */
 div[class*="imagePlaceholderOverlay"] {  display: none!important; }
