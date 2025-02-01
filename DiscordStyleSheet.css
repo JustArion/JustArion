@@ -36,6 +36,14 @@ ul[aria-label="Direct Messages"] li:has(a[href = "/shop"]),
 ul[aria-label="Direct Messages"] div[class*="container"]:has(> h2[class*="headerContainer"] > div[class*="textContainer"] > span[class*="headerText"]),
 
 /* ----------------------------------------------------------- */
+/*                 User Profile Modal                    */
+/* ----------------------------------------------------------- */
+
+div[aria-label="User Profile Modal"] button[aria-label="Shop"],
+
+div[aria-label="User Profile Modal"] button[class*="getPremiumButton"],
+
+/* ----------------------------------------------------------- */
 /*                Profile Customization Tab                    */
 /* ----------------------------------------------------------- */
 
