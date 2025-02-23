@@ -135,6 +135,34 @@
 			</a>
 		</td>
 	</tr>
+	<!-- MuMu_RichPresence -->
+	<tr>
+		<td>
+			<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+				<img alt="C#" width="30" height="30" src="./Assets/Languages/CSharp.png"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/MuMu_RichPresence/">
+				<img alt="MuMu Rich Presence" src="./Assets/RepoImages/MuMu_RichPresence.svg">
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/MuMu_RichPresence/stargazers">
+				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/MuMu_RichPresence?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/MuMu_RichPresence/network/members">
+				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/MuMu_RichPresence?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/MuMu_RichPresence/release">
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/MuMu_RichPresence/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+			</a>
+		</td>
+	</tr>
 	<!-- DeathMustDieMods -->
 	<tr>
 		<td>
@@ -219,6 +247,34 @@
 			</a>
 		</td>
 	</tr>
+	<!-- PlayGames_RichPresence -->
+	<tr>
+		<td>
+			<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+				<img alt="C#" width="30" height="30" src="./Assets/Languages/CSharp.png"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/PlayGames_RichPresence/">
+				<img alt="PlayGames Rich Presence" src="./Assets/RepoImages/PlayGames_RichPresence.svg">
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/PlayGames_RichPresence/stargazers">
+				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/PlayGames_RichPresence?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/PlayGames_RichPresence/network/members">
+				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/PlayGames_RichPresence?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/PlayGames_RichPresence/release">
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/PlayGames_RichPresence/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+			</a>
+		</td>
+	</tr>
 	<!-- ResizePls -->
 	<tr>
 		<td>
@@ -272,62 +328,6 @@
 		<td>
 			<a href="https://github.com/JustArion/Win11_Tooltip_Fix/release">
 				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/Win11_Tooltip_Fix/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</a>
-		</td>
-	</tr>
-	<!-- WingStateSaver -->
-	<tr>
-		<td>
-			<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-				<img alt="C#" width="30" height="30" src="./Assets/Languages/CSharp.png"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/WingStateSaver/">
-				<img alt="Wing State Saver" src="./Assets/RepoImages/WingStateSaver.svg">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/WingStateSaver/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/WingStateSaver?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/WingStateSaver/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/WingStateSaver?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/WingStateSaver/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/WingStateSaver/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</a>
-		</td>
-	</tr>
-	<!-- PlayGames_RichPresence -->
-	<tr>
-		<td>
-			<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-				<img alt="C#" width="30" height="30" src="./Assets/Languages/CSharp.png"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/PlayGames_RichPresence/">
-				<img alt="PlayGames Rich Presence" src="./Assets/RepoImages/PlayGames_RichPresence.svg">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/PlayGames_RichPresence/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/PlayGames_RichPresence?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/PlayGames_RichPresence/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/PlayGames_RichPresence?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/PlayGames_RichPresence/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/PlayGames_RichPresence/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 	</tr>
