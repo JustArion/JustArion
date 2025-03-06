@@ -107,34 +107,6 @@
 			</a>
 		</td>
 	</tr>
-	<!-- GoZippy -->
-	<tr>
-		<td>
-			<a href="https://en.wikipedia.org/wiki/Go_(programming_language)">
-				<img alt="GO" width="30" height="30" src="./Assets/Languages/Go.png"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/GoZippy/">
-				<img alt="Go Zippy" src="./Assets/RepoImages/GoZippy.svg">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/GoZippy/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/GoZippy?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/GoZippy/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/GoZippy?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/GoZippy/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/GoZippy/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</a>
-		</td>
-	</tr>
 	<!-- MuMu_RichPresence -->
 	<tr>
 		<td>
@@ -160,6 +132,34 @@
 		<td>
 			<a href="https://github.com/JustArion/MuMu_RichPresence/release">
 				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/MuMu_RichPresence/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+			</a>
+		</td>
+	</tr>
+	<!-- GoZippy -->
+	<tr>
+		<td>
+			<a href="https://en.wikipedia.org/wiki/Go_(programming_language)">
+				<img alt="GO" width="30" height="30" src="./Assets/Languages/Go.png"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/GoZippy/">
+				<img alt="Go Zippy" src="./Assets/RepoImages/GoZippy.svg">
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/GoZippy/stargazers">
+				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/GoZippy?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/GoZippy/network/members">
+				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/GoZippy?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/GoZippy/release">
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/GoZippy/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 	</tr>
