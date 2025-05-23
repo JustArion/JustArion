@@ -66,11 +66,11 @@ function Gen-Row
     return $retVal
 }
 
-Gen-Row -DisplayName "Post Processing+"        -Repo "PostProcessing"           -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
 Gen-Row -DisplayName "MuMu Rich Presence"      -Repo "MuMu_RichPresence"        -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
+Gen-Row -DisplayName "Post Processing+"        -Repo "PostProcessing"           -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
 Gen-Row -DisplayName "Mic Sensitivity"         -Repo "MicSensitivity"           -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
-Gen-Row -DisplayName "Toggle Mic Icon"         -Repo "ToggleMicIcon"            -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
 Gen-Row -DisplayName "PlayGames Rich Presence" -Repo "PlayGames_RichPresence"   -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
+Gen-Row -DisplayName "Toggle Mic Icon"         -Repo "ToggleMicIcon"            -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
 Gen-Row -DisplayName "Go Zippy"                -Repo "GoZippy"                  -Language "GO" -LanguageLink $goLang -LanguageImageLink $goImg
 Gen-Row -DisplayName "Death Must Die Mods"     -Repo "DeathMustDieMods"         -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
 Gen-Row -DisplayName "Console Encoding Fix"    -Repo "ConsoleEncodingFix"       -Language "C#" -LanguageLink $csLang -LanguageImageLink $csImg
