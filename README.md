@@ -1,9 +1,9 @@
 <h3>📲 Contact Details</h3>
 
 
-![Github Badge](https://img.shields.io/badge/-JustArion-000000?style=flat-square&logo=github&logoColor=FFF&labelColor=1e1e28&color=c9cbff&cacheSeconds=36000&link=https%3A%2F%2Fyoutu.be%2FK7XHy8nppf4%3FWhyWouldYouClickHere%2CYouAreAlreadyOnGithubBoomer!)
-![Discord Badge](https://img.shields.io/badge/-__arion-000000?style=flat-square&logo=discord&logoColor=FFF&labelColor=1e1e28&color=c9cbff&cacheSeconds=36000&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F155396491853168640)
-![Steam Badge](https://img.shields.io/badge/-arion-000000?style=flat-square&logo=steam&logoColor=FFF&labelColor=1e1e28&color=c9cbff&cacheSeconds=36000&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2FArion_Kun%2F)
+[![Github Badge](https://img.shields.io/badge/-JustArion-000000?style=flat-square&logo=github&logoColor=FFF&labelColor=1e1e28&color=c9cbff&cacheSeconds=5184000)](https://github.com/JustArion)
+[![Discord Badge](https://img.shields.io/badge/-__arion-000000?style=flat-square&logo=discord&logoColor=FFF&labelColor=1e1e28&color=c9cbff&cacheSeconds=5184000)](https://discordapp.com/users/155396491853168640)
+[![Steam Badge](https://img.shields.io/badge/-arion-000000?style=flat-square&logo=steam&logoColor=FFF&labelColor=1e1e28&color=c9cbff&cacheSeconds=5184000)](https://steamcommunity.com/id/ItsJustArion/)
 ![Profile Views Badge](https://komarev.com/ghpvc/?username=JustArion&style=flat-square&color=1e1e28)
 <br><kbd>Hey, arion here! I'm an avid enjoyer of C#. Feel free to contact me on the above platforms.</kbd>
 
