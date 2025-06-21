@@ -11,9 +11,8 @@
 /*                      Member List                            */
 /* ----------------------------------------------------------- */
 
-/* Profile Backgrounds */
-div[aria-label="Members"] div[class*="member"] div[style*="linear-gradient"],
-
+/* Nameplate Backgrounds */
+[aria-label="Members"] div[class*="member"] div[style*="linear-gradient"],
 
 /* ----------------------------------------------------------- */
 /*                           Chat                              */
@@ -52,9 +51,8 @@ ul[aria-label="Direct Messages"] li:has(a[href = "/shop"]),
 /* (TODO: Make this more resilient)  */
 ul[aria-label="Direct Messages"] div[class*="container"]:has(> h2[class*="headerContainer"] > div[class*="textContainer"] > span[class*="headerText"]),
 
-/* Profile Backgrounds */
+/* Nameplate Backgrounds */
 ul[aria-label="Direct Messages"] li[role*="listitem"] div[style*="linear-gradient"],
-
 
 /* ----------------------------------------------------------- */
 /*                 Large View Profile Modal                    */
