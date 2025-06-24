@@ -382,4 +382,5 @@
 	</kbd>
 </div>
 <br>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JustArion&theme=tokyonight" alt=""/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JustArion&theme=radical&show_icons=true&hide_border=false&layout=compact)
