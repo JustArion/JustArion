@@ -79,34 +79,6 @@
 			</a>
 		</td>
 	</tr>
-	<!-- MicSensitivity -->
-	<tr>
-		<td>
-			<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-				<img alt="C#" width="30" height="30" src="./Assets/Languages/CSharp.png"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/MicSensitivity/">
-				<img alt="Mic Sensitivity" src="./Assets/RepoImages/MicSensitivity.svg">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/MicSensitivity/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/MicSensitivity?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/MicSensitivity/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/MicSensitivity?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/MicSensitivity/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/MicSensitivity/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</a>
-		</td>
-	</tr>
 	<!-- PlayGames_RichPresence -->
 	<tr>
 		<td>
@@ -132,6 +104,34 @@
 		<td>
 			<a href="https://github.com/JustArion/PlayGames_RichPresence/release">
 				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/PlayGames_RichPresence/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+			</a>
+		</td>
+	</tr>
+	<!-- MicSensitivity -->
+	<tr>
+		<td>
+			<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+				<img alt="C#" width="30" height="30" src="./Assets/Languages/CSharp.png"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/MicSensitivity/">
+				<img alt="Mic Sensitivity" src="./Assets/RepoImages/MicSensitivity.svg">
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/MicSensitivity/stargazers">
+				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/MicSensitivity?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/MicSensitivity/network/members">
+				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/MicSensitivity?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/MicSensitivity/release">
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/MicSensitivity/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 	</tr>
