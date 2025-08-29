@@ -5,10 +5,11 @@
 [![Discord Badge](https://img.shields.io/badge/-__arion-000000?style=flat-square&logo=discord&logoColor=FFF&labelColor=1e1e28&color=c9cbff&cacheSeconds=5184000)](https://discordapp.com/users/155396491853168640)
 [![Steam Badge](https://img.shields.io/badge/-arion-000000?style=flat-square&logo=steam&logoColor=FFF&labelColor=1e1e28&color=c9cbff&cacheSeconds=5184000)](https://steamcommunity.com/id/ItsJustArion/)
 ![Profile Views Badge](https://komarev.com/ghpvc/?username=JustArion&style=flat-square&color=1e1e28)
-<br><kbd>
-Hey, arion here! I'm an avid enjoyer of C#.</br>
-I mainly create various projects for myself then share them so that others may benefit from them too.</br>
-Feel free to contact me on the above platforms.</kbd>
+<br>
+
+Feel free to contact me on the above platforms
+
+I'm an avid enjoyer of C# and mainly create various projects for myself then share them so that others may benefit from them as I have.
 
 
 
