@@ -223,6 +223,34 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 			</a>
 		</td>
 	</tr>
+	<!-- Win11_Tooltip_Fix -->
+	<tr>
+		<td>
+			<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+				<img alt="C#" width="30" height="30" src="./Assets/Languages/CSharp.png"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/Win11_Tooltip_Fix/">
+				<img alt="Win11 Tooltip Fix" src="./Assets/RepoImages/Win11_Tooltip_Fix.svg">
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/Win11_Tooltip_Fix/stargazers">
+				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/Win11_Tooltip_Fix?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/Win11_Tooltip_Fix/network/members">
+				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/Win11_Tooltip_Fix?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/Win11_Tooltip_Fix/release">
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/Win11_Tooltip_Fix/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+			</a>
+		</td>
+	</tr>
 	<!-- ConsoleEncodingFix -->
 	<tr>
 		<td>
@@ -304,34 +332,6 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 		<td>
 			<a href="https://github.com/JustArion/ResizePls/release">
 				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/ResizePls/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</a>
-		</td>
-	</tr>
-	<!-- Win11_Tooltip_Fix -->
-	<tr>
-		<td>
-			<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-				<img alt="C#" width="30" height="30" src="./Assets/Languages/CSharp.png"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/Win11_Tooltip_Fix/">
-				<img alt="Win11 Tooltip Fix" src="./Assets/RepoImages/Win11_Tooltip_Fix.svg">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/Win11_Tooltip_Fix/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/Win11_Tooltip_Fix?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/Win11_Tooltip_Fix/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/Win11_Tooltip_Fix?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/Win11_Tooltip_Fix/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/Win11_Tooltip_Fix/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 	</tr>
