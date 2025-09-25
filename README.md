@@ -55,34 +55,6 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 			</a>
 		</td>
 	</tr>
-	<!-- PostProcessing -->
-	<tr>
-		<td>
-			<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-				<img alt="C#" width="30" height="30" src="./Assets/Languages/CSharp.png"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/PostProcessing/">
-				<img alt="Post Processing+" src="./Assets/RepoImages/PostProcessing.svg">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/PostProcessing/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/PostProcessing?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/PostProcessing/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/PostProcessing?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/JustArion/PostProcessing/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/PostProcessing/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
-			</a>
-		</td>
-	</tr>
 	<!-- PlayGames_RichPresence -->
 	<tr>
 		<td>
@@ -108,6 +80,34 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 		<td>
 			<a href="https://github.com/JustArion/PlayGames_RichPresence/release">
 				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/PlayGames_RichPresence/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+			</a>
+		</td>
+	</tr>
+	<!-- PostProcessing -->
+	<tr>
+		<td>
+			<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+				<img alt="C#" width="30" height="30" src="./Assets/Languages/CSharp.png"/>
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/PostProcessing/">
+				<img alt="Post Processing+" src="./Assets/RepoImages/PostProcessing.svg">
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/PostProcessing/stargazers">
+				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/PostProcessing?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/PostProcessing/network/members">
+				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/PostProcessing?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+			</a>
+		</td>
+		<td>
+			<a href="https://github.com/JustArion/PostProcessing/release">
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/PostProcessing/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 	</tr>
