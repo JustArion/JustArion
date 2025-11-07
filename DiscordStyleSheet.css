@@ -12,7 +12,7 @@
 /* ----------------------------------------------------------- */
 
 /* Nameplate Backgrounds */
-[aria-label="Members"] div[class*="member"] div[style*="linear-gradient"],
+/* [aria-label="Members"] div[class*="member"] div[style*="linear-gradient"], */
 
 /* ----------------------------------------------------------- */
 /*                           Chat                              */
@@ -22,6 +22,7 @@
 div[aria-label="Send a gift"],
 
 /* Button to open the Apps menu */
+div[aria-label="Apps"],
 button[aria-label="Apps"],
 
 /* Avatar Decoration in chat */
@@ -52,7 +53,10 @@ ul[aria-label="Direct Messages"] li:has(a[href = "/shop"]),
 ul[aria-label="Direct Messages"] div[class*="container"]:has(> h2[class*="headerContainer"] > div[class*="textContainer"] > span[class*="headerText"]),
 
 /* Nameplate Backgrounds */
-ul[aria-label="Direct Messages"] li[role*="listitem"] div[style*="linear-gradient"],
+/* ul[aria-label="Direct Messages"] li[role*="listitem"] div[style*="linear-gradient"], */
+
+/* Profile Effect wishlist */
+aside[aria-labelledby*="user-profile-sidebar"] div[class*="wishlistBreadcrumb"],
 
 /* ----------------------------------------------------------- */
 /*                 Large View Profile Modal                    */
