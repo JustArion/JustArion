@@ -20,6 +20,7 @@
 
 /* Send a Gift option in chat */
 div[aria-label="Send a gift"],
+div[aria-label="Give a Gift"],
 
 /* Button to open the Apps menu */
 div[aria-label="Apps"],
