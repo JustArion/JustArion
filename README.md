@@ -387,4 +387,4 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 </div>
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JustArion&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JustArion&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&cache_seconds=86400)
