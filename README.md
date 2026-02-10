@@ -1,6 +1,5 @@
 <h3>📲 Contact Details</h3>
 
-
 [![Github Badge](https://img.shields.io/badge/-JustArion-000000?style=flat-square&logo=github&logoColor=FFF&labelColor=1e1e28&color=c9cbff&cacheSeconds=5184000)](https://github.com/JustArion)
 [![Discord Badge](https://img.shields.io/badge/-__arion-000000?style=flat-square&logo=discord&logoColor=FFF&labelColor=1e1e28&color=c9cbff&cacheSeconds=5184000)](https://discordapp.com/users/155396491853168640)
 [![Steam Badge](https://img.shields.io/badge/-arion-000000?style=flat-square&logo=steam&logoColor=FFF&labelColor=1e1e28&color=c9cbff&cacheSeconds=5184000)](https://steamcommunity.com/id/ItsJustArion/)
@@ -11,10 +10,7 @@ Feel free to contact me on the above platforms
 
 I'm an avid enjoyer of C# and mainly create various projects for myself then share them so that others may benefit from them as I have.
 
-
-
-
-<img align="right" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png" /><br><br>
+<img align="right" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png"/><br><br>
 
 <div>
 	<!-- Table -->
@@ -342,49 +338,82 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 		<kbd>Back-end</kbd>
 		<br>
 		<br>
-		<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /></a>
-		<a href="https://en.wikipedia.org/wiki/Go_(programming_language)"><img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /></a>
-		<a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+		<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+			<img height="30px" src="./Assets/Images/csharp.svg"/>
+		</a>
+		<a href="https://en.wikipedia.org/wiki/Go_(programming_language)">
+			<img height="30px" src="./Assets/Images/golang.svg"/>
+		</a>
+		<a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
+			<img height="30px" src="./Assets/Images/python.svg"/>
+		</a>
 	</kbd>
 	<kbd>
 		<kbd>Library/FrameWorks</kbd>
 		<br>
 		<br>
-		<a href="https://www.nuget.org/"><img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/NuGet_project_logo.svg/64px-NuGet_project_logo.svg.png" /></a>
-		<a href="https://www.tutorialsteacher.com/core/dotnet-core"><img height="30px" src="/Assets/RepoImages/dotnet-logo.png" /></a>
-		<a href="https://en.wikipedia.org/wiki/.NET_Framework"><img height="30px" src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" /></a>
+		<a href="https://www.nuget.org/">
+			<img height="30px" src="./Assets/Images/nuget.png"/>
+		</a>
+		<a href="https://www.tutorialsteacher.com/core/dotnet-core">
+			<img height="30px" src="./Assets/RepoImages/dotnet-logo.png"/>
+		</a>
+		<a href="https://en.wikipedia.org/wiki/.NET_Framework">
+			<img height="30px" src="./Assets/Images/netframework.png"/>
+		</a>
 	</kbd>
 	<br>
 	<kbd>
 		<kbd>Terminal Scripts</kbd>
 		<br>
 		<br>
-		<a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-		<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>
-		<a href="https://en.wikipedia.org/wiki/PowerShell"><img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/PowerShell_Core_6.0_icon.png/121px-PowerShell_Core_6.0_icon.png" /></a>
+		<a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
+			<img height="30px" src="./Assets/Images/python.svg"/>
+		</a>
+		<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
+			<img height="30px" src="./Assets/Images/bash.svg"/>
+		</a>
+		<a href="https://en.wikipedia.org/wiki/PowerShell">
+			<img height="30px" src="./Assets/Images/powershell.png"/>
+		</a>
 	</kbd>
 	<kbd>
 		<kbd>OS</kbd>
 		<br>
 		<br>
 		<a href="http://en.wikipedia.org/wiki/Linux">
-		<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
+			<img width="30px" src="./Assets/Images/linux.svg"/>
+		</a>
 		<a href="https://en.wikipedia.org/wiki/Microsoft_Windows">
-		<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a>
+			<img width="30px" src="./Assets/Images/windows.svg"/>
+		</a>
 	</kbd>
 	<br>
 	<kbd>
 		<kbd>Tools</kbd>
 		<br>
 		<br>
-		<a href="https://code.visualstudio.com/"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
-		<a href="https://visualstudio.microsoft.com/"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></a>
-		<a href="https://www.jetbrains.com/rider/"><img width="30px" src="/Assets/RepoImages/svgexport-13.svg" /></a>
-		<a href="https://www.jetbrains.com/go/"><img width="30px" src="/Assets/RepoImages/svgexport-9.svg"></a>
-		<a href="https://www.jetbrains.com/pycharm/"><img width="30px" src="/Assets/RepoImages/svgexport-12.svg"></a>
-		<a href="https://en.wikipedia.org/wiki/Git"><img width="30px" src="/Assets/RepoImages/Git-Icon.png"></a>
+		<a href="https://code.visualstudio.com/">
+			<img width="30px" src="./Assets/Images/vscode.svg"/>
+		</a>
+		<a href="https://visualstudio.microsoft.com/">
+			<img width="30px" src="./Assets/Images/visualstudio.svg"/>
+		</a>
+		<a href="https://www.jetbrains.com/rider/">
+			<img width="30px" src="./Assets/Images/rider.svg"/>
+		</a>
+		<a href="https://www.jetbrains.com/go/">
+			<img width="30px" src="./Assets/Images/goland.svg"/>
+		</a>
+		<a href="https://www.jetbrains.com/pycharm/">
+			<img width="30px" src="./Assets/Images/pycharm.svg"/>
+		</a>
+		<a href="https://en.wikipedia.org/wiki/Git">
+			<img width="30px" src="./Assets/Images/git.png"/>
+		</a>
 	</kbd>
 </div>
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JustArion&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&cache_seconds=86400)
+<img src="https://openlabx.com/githubflarestats/api/gitfs.php/JustArion?response=image&bgColor=%231e1e1e&textColor=%23f0f0f0&cardColor=%23333&chartColor=%23ff9800&chartTextColor=white" width=400>
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JustArion&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&cache_seconds=86400) -->
