@@ -415,5 +415,5 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 </div>
 <br>
 
-<img src="https://openlabx.com/githubflarestats/api/gitfs.php/JustArion?response=image&bgColor=%231e1e1e&textColor=%23f0f0f0&cardColor=%23333&chartColor=%23ff9800&chartTextColor=white" width=400>
+<img src="https://openlabx.com/githubflarestats/api/gitfs.php/JustArion?response=image&bgColor=%231e1e1e&textColor=%23f0f0f0&cardColor=%23333&chartColor=%23ff9800&chartTextColor=white" width=600>
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JustArion&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&cache_seconds=86400) -->
