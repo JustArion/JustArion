@@ -37,17 +37,17 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/MuMu_RichPresence/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/MuMu_RichPresence?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/MuMu_RichPresence?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/MuMu_RichPresence/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/MuMu_RichPresence?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/MuMu_RichPresence?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/MuMu_RichPresence/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/MuMu_RichPresence/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/MuMu_RichPresence/total?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 	</tr>
@@ -65,17 +65,17 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/PlayGames_RichPresence/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/PlayGames_RichPresence?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/PlayGames_RichPresence?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/PlayGames_RichPresence/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/PlayGames_RichPresence?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/PlayGames_RichPresence?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/PlayGames_RichPresence/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/PlayGames_RichPresence/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/PlayGames_RichPresence/total?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 	</tr>
@@ -93,17 +93,17 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/PostProcessing/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/PostProcessing?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/PostProcessing?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/PostProcessing/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/PostProcessing?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/PostProcessing?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/PostProcessing/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/PostProcessing/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/PostProcessing/total?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 	</tr>
@@ -121,17 +121,17 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/MicSensitivity/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/MicSensitivity?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/MicSensitivity?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/MicSensitivity/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/MicSensitivity?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/MicSensitivity?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/MicSensitivity/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/MicSensitivity/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/MicSensitivity/total?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 	</tr>
@@ -149,17 +149,17 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/ToggleMicIcon/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/ToggleMicIcon?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/ToggleMicIcon?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/ToggleMicIcon/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/ToggleMicIcon?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/ToggleMicIcon?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/ToggleMicIcon/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/ToggleMicIcon/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/ToggleMicIcon/total?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 	</tr>
@@ -177,17 +177,17 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/GoZippy/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/GoZippy?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/GoZippy?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/GoZippy/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/GoZippy?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/GoZippy?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/GoZippy/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/GoZippy/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/GoZippy/total?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 	</tr>
@@ -205,17 +205,17 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/DeathMustDieMods/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/DeathMustDieMods?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/DeathMustDieMods?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/DeathMustDieMods/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/DeathMustDieMods?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/DeathMustDieMods?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/DeathMustDieMods/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/DeathMustDieMods/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/DeathMustDieMods/total?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 	</tr>
@@ -233,17 +233,17 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/Win11_Tooltip_Fix/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/Win11_Tooltip_Fix?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/Win11_Tooltip_Fix?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/Win11_Tooltip_Fix/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/Win11_Tooltip_Fix?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/Win11_Tooltip_Fix?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/Win11_Tooltip_Fix/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/Win11_Tooltip_Fix/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/Win11_Tooltip_Fix/total?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 	</tr>
@@ -261,17 +261,17 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/ConsoleEncodingFix/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/ConsoleEncodingFix?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/ConsoleEncodingFix?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/ConsoleEncodingFix/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/ConsoleEncodingFix?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/ConsoleEncodingFix?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/ConsoleEncodingFix/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/ConsoleEncodingFix/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/ConsoleEncodingFix/total?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 	</tr>
@@ -289,17 +289,17 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/ToggleUIStickers/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/ToggleUIStickers?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/ToggleUIStickers?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/ToggleUIStickers/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/ToggleUIStickers?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/ToggleUIStickers?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/ToggleUIStickers/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/ToggleUIStickers/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/ToggleUIStickers/total?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 	</tr>
@@ -317,17 +317,17 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/ResizePls/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/ResizePls?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/ResizePls?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/ResizePls/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/ResizePls?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/ResizePls?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/ResizePls/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/ResizePls/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/ResizePls/total?label=%20&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 	</tr>
