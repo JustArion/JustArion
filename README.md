@@ -37,17 +37,17 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/MuMu_RichPresence/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/MuMu_RichPresence?label=%20&colorB=C9CBFF&style=for-the-badge">
+				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/MuMu_RichPresence?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/MuMu_RichPresence/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/MuMu_RichPresence?label=%20&colorB=C9CBFF&style=for-the-badge">
+				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/MuMu_RichPresence?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/MuMu_RichPresence/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/MuMu_RichPresence/total?label=%20&colorB=C9CBFF&style=for-the-badge">
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/MuMu_RichPresence/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 	</tr>
@@ -65,17 +65,17 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/PlayGames_RichPresence/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/PlayGames_RichPresence?label=%20&colorB=C9CBFF&style=for-the-badge">
+				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/PlayGames_RichPresence?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/PlayGames_RichPresence/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/PlayGames_RichPresence?label=%20&colorB=C9CBFF&style=for-the-badge">
+				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/PlayGames_RichPresence?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/PlayGames_RichPresence/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/PlayGames_RichPresence/total?label=%20&colorB=C9CBFF&style=for-the-badge">
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/PlayGames_RichPresence/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 	</tr>
@@ -93,21 +93,21 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/PostProcessing/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/PostProcessing?label=%20&colorB=C9CBFF&style=for-the-badge">
+				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/PostProcessing?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/PostProcessing/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/PostProcessing?label=%20&colorB=C9CBFF&style=for-the-badge">
+				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/PostProcessing?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
 			<a href="https://github.com/JustArion/PostProcessing/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/PostProcessing/total?label=%20&colorB=C9CBFF&style=for-the-badge">
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/PostProcessing/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 	</tr>
-	<!-- MicSensitivity -->
+	<!-- Win11_TooltipFix -->
 	<tr>
 		<td>
 			<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
@@ -115,27 +115,27 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 			</a>
 		</td>
 		<td>
-			<a href="https://github.com/JustArion/MicSensitivity/">
-				<img alt="Mic Sensitivity" src="./Assets/RepoImages/MicSensitivity.svg">
+			<a href="https://github.com/JustArion/Win11_TooltipFix/">
+				<img alt="Win11 -- Tooltip Fix" src="./Assets/RepoImages/Win11_TooltipFix.svg">
 			</a>
 		</td>
 		<td>
-			<a href="https://github.com/JustArion/MicSensitivity/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/MicSensitivity?label=%20&colorB=C9CBFF&style=for-the-badge">
+			<a href="https://github.com/JustArion/Win11_TooltipFix/stargazers">
+				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/Win11_TooltipFix?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
-			<a href="https://github.com/JustArion/MicSensitivity/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/MicSensitivity?label=%20&colorB=C9CBFF&style=for-the-badge">
+			<a href="https://github.com/JustArion/Win11_TooltipFix/network/members">
+				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/Win11_TooltipFix?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
-			<a href="https://github.com/JustArion/MicSensitivity/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/MicSensitivity/total?label=%20&colorB=C9CBFF&style=for-the-badge">
+			<a href="https://github.com/JustArion/Win11_TooltipFix/release">
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/Win11_TooltipFix/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 	</tr>
-	<!-- ToggleMicIcon -->
+	<!-- Win11_ToggleRoundedCorners -->
 	<tr>
 		<td>
 			<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
@@ -143,26 +143,25 @@ I'm an avid enjoyer of C# and mainly create various projects for myself then sha
 			</a>
 		</td>
 		<td>
-			<a href="https://github.com/JustArion/ToggleMicIcon/">
-				<img alt="Toggle Mic Icon" src="./Assets/RepoImages/ToggleMicIcon.svg">
+			<a href="https://github.com/JustArion/Win11_ToggleRoundedCorners/">
+				<img alt="Win11 -- Toggle Rounded Corners" src="./Assets/RepoImages/Win11_ToggleRoundedCorners.svg">
 			</a>
 		</td>
 		<td>
-			<a href="https://github.com/JustArion/ToggleMicIcon/stargazers">
-				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/ToggleMicIcon?label=%20&colorB=C9CBFF&style=for-the-badge">
+			<a href="https://github.com/JustArion/Win11_ToggleRoundedCorners/stargazers">
+				<img alt="Stars" src="https://img.shields.io/github/stars/JustArion/Win11_ToggleRoundedCorners?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
-			<a href="https://github.com/JustArion/ToggleMicIcon/network/members">
-				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/ToggleMicIcon?label=%20&colorB=C9CBFF&style=for-the-badge">
+			<a href="https://github.com/JustArion/Win11_ToggleRoundedCorners/network/members">
+				<img alt="Forks" src="https://img.shields.io/github/forks/JustArion/Win11_ToggleRoundedCorners?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
 		<td>
-			<a href="https://github.com/JustArion/ToggleMicIcon/release">
-				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/ToggleMicIcon/total?label=%20&colorB=C9CBFF&style=for-the-badge">
+			<a href="https://github.com/JustArion/Win11_ToggleRoundedCorners/release">
+				<img alt="Downloads" src="https://img.shields.io/github/downloads/JustArion/Win11_ToggleRoundedCorners/total?label=&colorB=c9cbff&style=for-the-badge&cacheSeconds=3600">
 			</a>
 		</td>
-	</tr>
 	</tr>
 <!-- End Paste Zone -->
 	</table>
